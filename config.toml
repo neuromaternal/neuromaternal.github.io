@@ -1,4 +1,5 @@
-title = "Notre-Dame de Paris"
+baseurl = "https://neuromaternal.github.io/"
+title = "NeuroMaternal"
 languageCode = "en-us"
 theme = "ananke"
 resourceDir = "../resources"
