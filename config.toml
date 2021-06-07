@@ -1,24 +1,24 @@
 baseurl = "https://neuromaternal.github.io/"
 title = "NeuroMaternal"
-languageCode = "en-us"
+languageCode = "es-es"
 theme = "ananke"
 resourceDir = "../resources"
 
-DefaultContentLanguage = "en"
+DefaultContentLanguage = "es"
 SectionPagesMenu = "main"
-Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
+Paginate = 4 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = ""
 enableRobotsTXT = true
 
 [languages]
-  [languages.en]
-    title = "My blog"
+  [languages.es]
+    title = "NeuroMaternal"
     weight = 1
-    contentDir = "content/en"
-  [languages.fr]
-    title = "Mon blogue"
-    weight = 2
-    contentDir = "content/fr"
+    contentDir = "content/es"
+ # [languages.fr]
+ #  title = "NeuroMaternal"
+ #  weight = 2
+ #   contentDir = "content/fr"
 
 [sitemap]
   changefreq = "monthly"
@@ -28,7 +28,7 @@ enableRobotsTXT = true
 [params]
   favicon = ""
   site_logo = ""
-  description = "cosas de neuroimagen y madre. A veces padres, maybe"
+  description = "Grupo de investigación en neurociencia acerca de los cambios cerebrales asociados al embarazo y la maternidad"
   facebook = ""
   twitter = ""
   instagram = "https://www.instagram.com/neuro.maternal/?hl=es"
@@ -43,4 +43,4 @@ enableRobotsTXT = true
   # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
   background_color_class = "bg-black"
   featured_image = "/images/imagen_alberto.jpeg"
-  recent_posts_number = 2
+  recent_posts_number = 0
