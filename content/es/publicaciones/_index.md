@@ -1,5 +1,5 @@
 ---
-title: "Publicaciones"
+title: "Publicaciones y patentes"
 description: ""
 featured_image: ''
 ---
