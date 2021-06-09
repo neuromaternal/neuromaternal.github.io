@@ -6,9 +6,9 @@ featured_image: ''
 {{< figure src="/images/XX.jpg" title=" " >}}
 
 ## Publicaciones científicas más relevantes 
-(año). [tit](< >) *journ.*
+Autores (año) [título](<>) *journal*
 
-Magdalena Martínez-García; Maria Paternina-Die; Erika Barba-Müller; Daniel Martín de Blas; Laura Beumala; Romina Cortizo; Cristina Pozzobon; Marisol Picado; Luis Marcos-Vidal; Alberto Fernández-Pena; Elena Belmonte-Padilla; Anna Massó-Rodriguez; Agustin Ballesteros; Manuel Desco; Oscar Vilarroya; Elseline Hoekzema; Susanna Carmona (2021). [Do pregnancy-induced brain changes reverse? The brain of a mother six years after parturition](<https://www.mdpi.com/2076-3425/11/2/168>). *Brain Sciences.*
+Magdalena Martínez-García; Maria Paternina-Die; Erika Barba-Müller; Daniel Martín de Blas; Laura Beumala; Romina Cortizo; Cristina Pozzobon; Marisol Picado; Luis Marcos-Vidal; Alberto Fernández-Pena; Elena Belmonte-Padilla; Anna Massó-Rodriguez; Agustin Ballesteros; Manuel Desco; Oscar Vilarroya; Elseline Hoekzema; Susanna Carmona (2021). [Do pregnancy-induced brain changes reverse? The brain of a mother six years after parturition](<https://www.mdpi.com/2076-3425/11/2/168>). *Brain Sciences.* 
 
 María Paternina-Die; Magdalena Martínez-García; Clara Pretus; Elseline Hoekzema; Erika Barba-Müller; Daniel Martín de Blas; Cristina Pozzobon; Agustín Ballesteros; Óscar Vilarroya; Manuel Desco; Susana Carmona (2020). [The paternal transition entails neuroanatomic adaptations that are associated with the father’s brain response to hisinfant cues](<https://academic.oup.com/cercorcomms/article/1/1/tgaa082/5955504>). *Cerebral Cortex Communications*. 
 
@@ -20,8 +20,11 @@ Carmona, Susanna; Martinez-Garcia, Magdalena; Paternina-Die, Maria; Barba-Muller
 
 Elseline Hoekzema; Barba-Müller, E.; Picado, M.; Lucco, F.; García-García, D.; Soliva, J.C.; Tobeña, A.; Desco,M.; Crone, E.A.; Carmona, S.; Vilarroya, O. (2017). [Pregnancy leads to long-lasting changes in human brain structure.](<https://www.nature.com/articles/nn.4458>) *Nature Neuroscience.*
 
-
-### Otras publicaciones
+\
+\
+\
+\
+## Otras publicaciones
 Francisco J. Navas-Sánchez; Alberto Fernández‑Pena; Daniel Martín de Blas; Yasser Alemán‑Gómez; Luis Marcos‑Vidal; Juan A. Guzmán‑de‑Villoria; Pilar Fernández‑García; Julia Romero; Irene Catalina; Laura Lillo; José L. Muñoz‑Blanco; Andrés Ordoñez‑Ugalde; Beatriz Quintáns; Julio Pardo; María Jesús Sobrido; Susanna Carmona; Francisco Grandas; Manuel Desco (2021). [Thalamic atrophy in patients with pure hereditary spastic paraplegia type 4.](<https://link.springer.com/article/10.1007/s00415-020-10387-4>) *Journal of Neurology*
 
 
@@ -80,11 +83,20 @@ Susana Carmona Cañabate. **Capítulo 3 del libro Psicología del embarazo.** Ed
 
 Susana Carmona Cañabate. **Capítulo 4 del libro Psicología del embarazo.** Editorial Síntesis
 
-<p><br></p>
+Susanna Carmona Cañabate. Neurociencia Cognitiva, Susanna Carmona. pp. 693 - 719. Panamericana. 2014. Nombre del material: Cognición Social. Fecha de elaboración: 2014. Tipo de soporte: Libro
+
+Susanna Carmona Cañabate; Ana Moreno Alcazar. Neurociencia Cognitiva, Susanna Carmona. pp. 719 - 746.Panamericana. 2014. Nombre del material: Control ejecutivo, toma de decisiones, razonamiento y resolución de problemas. Fecha de elaboración: 2014. Tipo de soporte: Libro
+
+Susanna Carmona Cañabate; Oscar Vilarroya Oliver. Psicología Fisiológica, Susanna Carmona. EDIOUOC.2009.Nombre del material: Bases Neuronales del Cerebro Social. Fecha de elaboración: 2009. Tipo de soporte: Capítulos de libros.
+
+Susanna Carmona Cañabate. Neuroanatomy of Attention Deficit Hyperactivity Disorder, Susanna Carmona. VDMVerlag. 2009.Nombre del material: Neuroanatomy of Attention Deficit Hyperactivity Disorder. Fecha de elaboración: 2009. Tipo de soporte: Libro
+
+Susanna Carmona Cañabate; Oscar Vilarroya Oliver. El Cerebro Emocional, Susanna Carmona. pp. 219 - 235.Fundación Española para la Ciencia y la Tecnología. 2006. Nombre del material: Viaje al Universo Neuronal. Fecha de elaboración: 2006. Tipo de soporte: Capítulos de libros.
+
+Oscar Vilarroya Oliver; Susanna Carmona Cañabate; Eva Loste. pp. 4 - 5.   Heraldo de Aragón. 22/01/2018.N ombre del material: El miedo: un guardián que asusta pero protege. Tipo de soporte: Artículo/s. Revista de psicología positiva. pp. 57 - 61.    01/08/2007.Nombre del material: Música para el cerebroTipo de soporte: Artículo/s.
+
 
 ## Patentes y registros de propiedad
 
 **Título propiedad industrial registrada: CIBERSAMXnat**
-Entidad titular de derechos: Instituto de Investigación Sanitaria Gregorio Marañón (M-007734/2020) España,  Comunidad de Madrid. Fecha de registro: 16/12/2020
-
-
+Entidad titular de derechos: Instituto de Investigación Sanitaria Gregorio Marañón (M-007734/2020) España, Comunidad de Madrid. Fecha de registro: 16/12/2020
