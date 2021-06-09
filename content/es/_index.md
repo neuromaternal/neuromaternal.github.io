@@ -1,6 +1,6 @@
 ---
 title: "NeuroMaternal"
-featured_image: "/images/imagen_alberto.jpeg"
+featured_image: "/images/BEMOTHER1.png"
 description: "Grupo de investigación en neurociencia"
 layout: "single"
 ---

@@ -8,13 +8,6 @@ layout: "uncentered"
 
 {{< figure src="/images/XX.jpg" title=" " >}}
 
-(Poner enlace bemother)
-(quitar numero y otros campos)
-Nombres investigadores principales -> Nombres de los investigadores principales
-Comunidad de Madrid ->  
-Entidad/es -> Entidad
-Ciudad entidad realización: España -> País entidad realización: España
-
 **[Becoming a mother: An integrative model of adaptations for motherhood during pregnancy and the postpartum period. (BEMOTHER)](<https://bemother.eu/>)**. Entidad de realización: Instituto de Investigación Sanitaria Gregorio Marañón. Nombres de los investigadores principales (IP, Co-IP,...): Óscar Vilarroya; Susana Carmona; Óscar Pozo. Entidad financiadora: European Comission (ERC-Advanced). (01/10/2020 -  30/09/2025)
 
 
