@@ -93,7 +93,7 @@ Susanna Carmona Cañabate. Neuroanatomy of Attention Deficit Hyperactivity Disor
 
 Susanna Carmona Cañabate; Oscar Vilarroya Oliver. El Cerebro Emocional, Susanna Carmona. pp. 219 - 235.Fundación Española para la Ciencia y la Tecnología. 2006. Nombre del material: Viaje al Universo Neuronal. Fecha de elaboración: 2006. Tipo de soporte: Capítulos de libros.
 
-Oscar Vilarroya Oliver; Susanna Carmona Cañabate; Eva Loste. pp. 4 - 5.   Heraldo de Aragón. 22/01/2018.N ombre del material: El miedo: un guardián que asusta pero protege. Tipo de soporte: Artículo/s. Revista de psicología positiva. pp. 57 - 61.    01/08/2007.Nombre del material: Música para el cerebroTipo de soporte: Artículo/s.
+Oscar Vilarroya Oliver; Susanna Carmona Cañabate; Eva Loste. pp. 4 - 5.   Heraldo de Aragón. 22/01/2018.N ombre del material: El miedo: un guardián que asusta pero protege. Tipo de soporte: Artículo/s. Revista de psicología positiva. pp. 57 - 61.    01/08/2007.Nombre del material: Música para el cerebro. Tipo de soporte: Artículo/s.
 
 
 ## Patentes y registros de propiedad
