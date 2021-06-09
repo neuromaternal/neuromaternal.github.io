@@ -6,4 +6,4 @@ layout: "uncentered"
 ---
 {{< figure src="/images/XX.jpg" title="Illustration" >}}
 
-Inés va a subir los **proyectos**
+Inés va a subir los proyectos
