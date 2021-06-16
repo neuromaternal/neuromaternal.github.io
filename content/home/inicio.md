@@ -8,7 +8,7 @@ weight = 10  # Order that this section will appear.
 title = "NeuroMaternal"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media = "brain.png"
+hero_media = "BEMOTHER1.png"
  
 
 [design.background]
@@ -25,8 +25,8 @@ hero_media = "brain.png"
   # gradient_end = "#000"
   
   # Background image.
-  image = "BEMOTHER1.png"
-  image_darken = 0.4  
+  image = "brain.png"
+  image_darken = 0.6  
   # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
@@ -36,7 +36,7 @@ hero_media = "brain.png"
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
 [btn]
-  url = "Participa"
+  url = "participa"
   label = "Participa"
   
 # [btn_alt]
