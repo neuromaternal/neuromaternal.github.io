@@ -8,7 +8,8 @@ weight = 10  # Order that this section will appear.
 title = "NeuroMaternal"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media = "Da_Vinci.jpeg"
+hero_media = "brain.png"
+ 
 
 [design.background]
   # Apply a background color, gradient, or image.
