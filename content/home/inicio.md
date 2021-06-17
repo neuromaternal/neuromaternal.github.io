@@ -10,6 +10,8 @@ title = "NeuroMaternal"
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 hero_media = "BEMOTHER1.png"
  
+ [design]
+  columns = 2
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -18,19 +20,19 @@ hero_media = "BEMOTHER1.png"
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  color = "#fff"
+  color = "#dad7c7"
   
   # Background gradient.
   # gradient_start = "#4bb4e3"
   # gradient_end = "#000"
   
   # Background image.
-  image = "brain.png"
-  image_darken = 0.6  
+  # image = "BEMOTHER1.png"
+  # image_darken = 0.6  
   # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
-  text_color_light = true
+  text_color_light = false
 
 # Call to action links (optional).
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
@@ -44,6 +46,7 @@ hero_media = "BEMOTHER1.png"
 # label = "Participa"
 
 +++
+
 ## Bienvenidos a la web de **NeuroMaternal.**  
 Somos un equipo de investigación en neurociencia que estudia los cambios cerebrales asociados al embarazo, la maternidad y la paternidad.
 
