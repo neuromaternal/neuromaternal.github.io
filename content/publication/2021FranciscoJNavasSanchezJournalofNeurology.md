@@ -5,7 +5,7 @@ authors:
 - Alberto Fernández‑Pena
 - Daniel Martín de Blas
 - Yasser Alemán‑Gómez
-- Luis Marcos‑Vidal
+- Luis Marcos-Vidal
 - Juan A. Guzmán‑de‑Villoria
 - Pilar Fernández‑García
 - Julia Romero
@@ -25,7 +25,7 @@ publishDate: "2021-01-01T00:00:00Z"
 publication_types: ["2"]
 publication: "In *Journal of Neurology*"
 tags:
-- Source Themes
+- Others
 featured: false
 links:
 - name: Link

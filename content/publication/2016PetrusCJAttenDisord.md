@@ -14,7 +14,7 @@ publishDate: "2016-01-01T00:00:00Z"
 publication_types: ["2"]
 publication: "In *J Atten Disord*"
 tags:
-- Source Themes
+- Others
 featured: false
 links:
 - name: Link

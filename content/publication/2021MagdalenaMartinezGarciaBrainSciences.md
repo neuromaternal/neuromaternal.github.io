@@ -10,7 +10,7 @@ authors:
 - Cristina Pozzobon
 - Marisol Picado
 - Luis Marcos-Vidal
-- Alberto Fernández-Pena
+- Alberto Fernández‑Pena
 - Elena Belmonte-Padilla
 - Anna Massó-Rodriguez
 - Agustin Ballesteros

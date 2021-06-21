@@ -58,8 +58,6 @@ def generateMD(authors, year, title, link, journal, dest_path):
     #md_file.close()
     with open(os.path.join(dest_path, filename), 'x') as temp_file:
         temp_file.write(c)
-    #resetear la variable para el próximo fichero
-    c=''
 
 if __name__ == '__main__':
     main()

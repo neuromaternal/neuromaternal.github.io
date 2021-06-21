@@ -5,9 +5,9 @@
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = false  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 90  # Order that this section will appear.
+weight = 10  # Order that this section will appear.
 
-title = "Publicaciones recientes"
+title = "Publicaciones destacadas"
 # subtitle = "Publicaciones seleccionadas"
 
 [content]
@@ -15,7 +15,7 @@ title = "Publicaciones recientes"
   page_type = "publication"
   
   # Choose how much pages you would like to display (0 = all pages)
-  count = 5
+  count = 0
   
   # Choose how many pages you would like to offset by
   offset = 0

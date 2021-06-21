@@ -20,7 +20,7 @@
 
 [[main]]
   name = "Publicaciones y patentes"
-  url = "publication/"
+  url = "publicaciones/"
   weight = 40
 
 [[main]]

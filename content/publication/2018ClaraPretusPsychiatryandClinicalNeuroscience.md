@@ -13,7 +13,7 @@ publishDate: "2018-01-01T00:00:00Z"
 publication_types: ["2"]
 publication: "In *Psychiatry and Clinical Neuroscience*"
 tags:
-- Source Themes
+- Others
 featured: false
 links:
 - name: Link
