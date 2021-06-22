@@ -1,5 +1,5 @@
 ---
-title: "Laminar thickness alterations in the fronto-parietal cortical mantle of patients withattention-deficit/hyperactivity disorder"
+title: "Laminar thickness alterations in the fronto-parietal cortical mantle of patients with attention-deficit/hyperactivity disorder"
 authors:
 - Elseline Hoekzema
 - Susana Carmona

@@ -1,19 +1,19 @@
 ---
 title: "Becoming a mother entails anatomical changes in the ventral striatum of the human brain that facilitate its responsiveness to offspring cues"
 authors:
-- E Hoekzema
-- CK Tamnes
-- P Berns
-- E Barba-Müller
-- C Pozzobon
-- M Picado
-- F Lucco
-- M Martínez-García
-- MDesco
-- A Ballesteros
-- EA Crone
-- O Vilarroya
-- S Carmona
+- Elseline Hoekzema
+- Christian K. Tamnes
+- Puck Berns
+- Erika Barba-Müller
+- Cristina Pozzobon
+- Marisol Picado
+- Florencio Lucco
+- Magdalena Martínez García
+- Manuel Desco
+- Agustín Ballesteros
+- Eveline A. Crone
+- Óscar Vilarroya
+- Susana Carmona
 date: "2020-01-01T00:00:00Z"
 doi: ""
 publishDate: "2020-01-01T00:00:00Z"

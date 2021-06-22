@@ -1,12 +1,12 @@
 ---
-title: "Gray matter volume deficits and correlation with insight and negative symptoms in first-psychotic-episodesubjects"
+title: "Gray matter volume deficits and correlation with insight and negative symptoms in first-psychotic-episode subjects"
 authors:
 - Daniel Bergé
-- Susana Carmona Cañabate
+- Susana Carmona
 - Ana Bielsa
 - Mariana Rovira
 - Purificación Salgado
-- Oscar Vilarroya Oliver
+- Óscar Vilarroya Oliver
 date: "2011-01-01T00:00:00Z"
 doi: ""
 publishDate: "2011-01-01T00:00:00Z"

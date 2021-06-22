@@ -1,28 +1,28 @@
 ---
-title: "Pregnancyand adolescence entail similar neuroanatomical adaptations: A comparative analysis of cerebral morphometric changes"
+title: "Pregnancy and adolescence entail similar neuroanatomical adaptations: A comparative analysis of cerebral morphometric changes"
 authors:
-- Carmona, Susanna
-- Martinez-Garcia, Magdalena
-- Paternina-Die, Maria
-- Barba-Muller, Erika
-- Wierenga, LaraM.
-- Aleman-Gomez, Yasser
-- Pretus, Clara
-- Marcos-Vidal, Luis
-- Beumala, Laura
-- Cortizo, Romina
-- Pozzobon, Cristina
-- Picado, Marisol
-- Lucco, Florencio
-- Garcia-Garcia, David
-- Carlos Soliva, Juan
-- Tobena, Adolf
-- Peper, JiskaS.
-- Crone, Eveline A.
-- Ballesteros, Agustin
-- Vilarroya, Oscar
-- Desco, Manuel
-- Hoekzema, Elseline
+- Susana Carmona
+- Magdalena Martínez García
+- María Paternina Die
+- Erika Barba-Müller
+- Lara M. Wierenga
+- Yasser Alemán Gomez
+- Clara Pretus
+- Luis Marcos Vidal
+- Laura Beumala
+- Romina Cortizo
+- Cristina Pozzobon
+- Marisol Picado
+- Florencio Lucco
+- David Garcia-Garcia
+- Juan Carlos Soliva
+- Adolf Tobena
+- Jiska S. Peper
+- Eveline A. Crone
+- Agustín Ballesteros
+- Óscar Vilarroya
+- Manuel Desco
+- Elseline Hoekzema
 date: "2017-01-01T00:00:00Z"
 doi: ""
 publishDate: "2017-01-01T00:00:00Z"

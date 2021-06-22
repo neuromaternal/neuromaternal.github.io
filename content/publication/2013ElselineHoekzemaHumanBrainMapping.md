@@ -11,7 +11,7 @@ authors:
 - Antonio Bulbena
 - Adolf Tobeña
 - Miguel Casas
-- Oscar Vilarroya
+- Óscar Vilarroya
 date: "2013-01-01T00:00:00Z"
 doi: ""
 publishDate: "2013-01-01T00:00:00Z"

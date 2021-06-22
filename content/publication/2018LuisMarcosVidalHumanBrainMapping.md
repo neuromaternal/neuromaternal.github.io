@@ -7,8 +7,8 @@ authors:
 - David García García
 - Kenia Martinez
 - Joost Janssen
-- Oscar Vilarroya
-- Francisco Castellanos
+- Óscar Vilarroya
+- Francisco X. Castellanos
 - Manuel Desco
 - Jorge Sepulcre
 - Susana Carmona

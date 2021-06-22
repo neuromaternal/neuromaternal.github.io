@@ -1,8 +1,8 @@
 ---
-title: "The paternal transition entails neuroanatomic adaptations that are associated with the father’s brain response to hisinfant cues"
+title: "The paternal transition entails neuroanatomic adaptations that are associated with the father’s brain response to his infant cues"
 authors:
-- María Paternina-Die
-- Magdalena Martínez-García
+- María Paternina Die
+- Magdalena Martínez García
 - Clara Pretus
 - Elseline Hoekzema
 - Erika Barba-Müller

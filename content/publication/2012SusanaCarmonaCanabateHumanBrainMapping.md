@@ -1,7 +1,7 @@
 ---
 title: "Response inhibition and reward anticipation in medication-naïve adults with attention-deficit/hyperactivitydisorder: A within-subject case-control neuroimaging study"
 authors:
-- Susana Carmona Cañabate
+- Susana Carmona
 - Elseline Hoekzema
 - Antonio Ramos Quiroga
 - Vanesa Richarte
@@ -12,7 +12,7 @@ authors:
 - Antoni Bulbena Vilarrasa
 - Adolf Tobeña
 - Miquel Casas
-- Oscar Vilarroya
+- Óscar Vilarroya
 date: "2012-01-01T00:00:00Z"
 doi: ""
 publishDate: "2012-01-01T00:00:00Z"

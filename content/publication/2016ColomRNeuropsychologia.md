@@ -1,15 +1,15 @@
 ---
 title: "Brain structural changes following adaptive cognitive training assessed by Tensor-Based Morphometry(TBM)"
 authors:
-- Colom, R.
-- Hua, X.
-- Martínez, K.
-- Burgaleta, M.
-- Román, F.J.
-- Gunter, J.L.
-- Carmona, S.
-- Jaeggi, S.M.
-- Thompson, P.M.
+- Roberto Colom
+- Xue Hua
+- Kenia Martínez
+- Miguel Burgaleta
+- Francisco J. Román
+- Jeffrey L. Gunter
+- Susana Carmona
+- Susanne M. Jaeggi
+- Paul M. Thompson
 date: "2016-01-01T00:00:00Z"
 doi: ""
 publishDate: "2016-01-01T00:00:00Z"

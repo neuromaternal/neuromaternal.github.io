@@ -2,7 +2,7 @@
 title: "Limbicactivity in antipsychotic naïve first-episode psychotic subjects during facial emotion discrimination"
 authors:
 - Daniel Bergé
-- Susanna Carmona
+- Susana Carmona
 - Purificación Salgado
 - Mariana Rovira
 - Antoni Bulbena

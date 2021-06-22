@@ -2,7 +2,7 @@
 title: "Learning biasesunderlying individual differences in sensitivity to social rejection"
 authors:
 - Andreas Olsson
-- Susanna Carmona
+- Susana Carmona
 - Geraldine Downey
 - Niall Bolger
 - Kevin N Ochsner

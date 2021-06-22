@@ -6,8 +6,8 @@ authors:
 - Vanesa Richarte
 - M Corrales
 - Marisol Picado
-- Susanna Carmona
-- Oscar Vilarroya
+- Susana Carmona
+- Óscar Vilarroya
 date: "2017-01-01T00:00:00Z"
 doi: ""
 publishDate: "2017-01-01T00:00:00Z"

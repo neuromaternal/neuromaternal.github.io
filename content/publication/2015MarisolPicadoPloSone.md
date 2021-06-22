@@ -2,7 +2,7 @@
 title: "The neuroanatomical basis of panic disorder and social phobia in schizophrenia: a voxel based morphometric study"
 authors:
 - Marisol Picado
-- Susanna Carmona
+- Susana Carmona
 - Elseline Hoekzema
 - Guillem Pailhez
 - Daniel Bergé

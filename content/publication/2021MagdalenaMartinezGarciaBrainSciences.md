@@ -1,23 +1,23 @@
 ---
 title: "Do pregnancy-induced brain changes reverse? The brain of a mother six years after parturition"
 authors:
-- Magdalena Martínez-García
-- Maria Paternina-Die
+- Magdalena Martínez García
+- María Paternina Die
 - Erika Barba-Müller
 - Daniel Martín de Blas
 - Laura Beumala
 - Romina Cortizo
 - Cristina Pozzobon
 - Marisol Picado
-- Luis Marcos-Vidal
-- Alberto Fernández‑Pena
-- Elena Belmonte-Padilla
-- Anna Massó-Rodriguez
-- Agustin Ballesteros
+- Luis Marcos Vidal
+- Alberto Fernández Pena
+- Elena Belmonte Padilla
+- Anna Massó Rodriguez
+- Agustín Ballesteros
 - Manuel Desco
-- Oscar Vilarroya
+- Óscar Vilarroya
 - Elseline Hoekzema
-- Susanna Carmona
+- Susana Carmona
 date: "2021-01-01T00:00:00Z"
 doi: ""
 publishDate: "2021-01-01T00:00:00Z"

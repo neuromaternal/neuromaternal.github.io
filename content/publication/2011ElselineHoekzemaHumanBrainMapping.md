@@ -2,17 +2,17 @@
 title: "Training-induced neuroanatomical plasticity in ADHD: a tensor-based morphometric study"
 authors:
 - Elseline Hoekzema
-- Susana Carmona Cañabate
-- Antoni Ramos Quiroga
-- Erika Barba
+- Susana Carmona
+- Josep Antoni Ramos-Quiroga
+- Erika Barba-Müller
 - Ana Bielsa
 - Virginia Trèmols
 - Mariana Rovira
-- Juan Carles Soliva
-- Miquel Casas
+- Juan Carlos Soliva
+- Miguel Casas
 - Antoni Bulbena
 - Adolf Tobeña
-- Oscar Vilarroya
+- Óscar Vilarroya
 date: "2011-01-01T00:00:00Z"
 doi: ""
 publishDate: "2011-01-01T00:00:00Z"
