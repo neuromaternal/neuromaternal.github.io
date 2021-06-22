@@ -1,9 +1,9 @@
 ---
-title: "An independent components and functional connectivity analysis of resting state fMRI data points to neural network dysregulationin adult ADHD"
+title: "An independent components and functional connectivity analysis of resting state fMRI data points to neural network dysregulation in adult ADHD"
 authors:
 - Elseline Hoekzema
 - Susana Carmona
-- J Antoni Ramos Quiroga
+- Josep Antoni Ramos-Quiroga
 - Vanesa Richarte Fernández
 - Rosa Bosch
 - Juan Carlos Soliva

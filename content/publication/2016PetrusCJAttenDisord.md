@@ -1,13 +1,13 @@
 ---
 title: "Presence of Distractor Improves Time Estimation Performance in an Adult ADHD Sample"
 authors:
-- Petrus, C.
-- Picado, M.
-- Ramos-Quiroga, A.
-- Carmona, S.
-- Richarte, V.
-- Fauquet, J.
-- Vilarroya, O.
+- Clara Petrus
+- Marisol Picado
+- Josep Antoni Ramos-Quiroga
+- Susana Carmona
+- Vanesa Richarte
+- Jordi Fauquet
+- Óscar Vilarroya
 date: "2016-01-01T00:00:00Z"
 doi: ""
 publishDate: "2016-01-01T00:00:00Z"

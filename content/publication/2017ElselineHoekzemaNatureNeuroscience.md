@@ -2,16 +2,16 @@
 title: "Pregnancy leads to long-lasting changes in human brain structure"
 authors:
 - Elseline Hoekzema
-- Barba-Müller, E.
-- Picado, M.
-- Lucco, F.
-- García-García, D.
-- Soliva, J.C.
-- Tobeña, A.
-- Desco,M.
-- Crone, E.A.
-- Carmona, S.
-- Vilarroya, O.
+- Erika Barba-Müller
+- Marisol Picado
+- Florencio Lucco
+- David García García
+- Juan Carlos Soliva
+- Adolf Tobeña
+- Manuel Desco
+- Eveline A. Crone
+- Susana Carmona
+- Óscar Vilarroya
 date: "2017-01-01T00:00:00Z"
 doi: ""
 publishDate: "2017-01-01T00:00:00Z"

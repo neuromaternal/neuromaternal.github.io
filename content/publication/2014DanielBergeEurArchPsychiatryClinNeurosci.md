@@ -1,5 +1,5 @@
 ---
-title: "Limbicactivity in antipsychotic naïve first-episode psychotic subjects during facial emotion discrimination"
+title: "Limbic activity in antipsychotic naïve first-episode psychotic subjects during facial emotion discrimination"
 authors:
 - Daniel Bergé
 - Susana Carmona

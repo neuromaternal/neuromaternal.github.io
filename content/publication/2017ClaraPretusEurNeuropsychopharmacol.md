@@ -1,8 +1,8 @@
 ---
-title: "Time and psychostimulants: Opposing long-term structural effects in the adult ADHD brain. Alongitudinal MR study"
+title: "Time and psychostimulants: Opposing long-term structural effects in the adult ADHD brain. A longitudinal MR study"
 authors:
 - Clara Pretus
-- Antonio Ramos Quiroga
+- Josep Antoni Ramos-Quiroga
 - Vanesa Richarte
 - M Corrales
 - Marisol Picado

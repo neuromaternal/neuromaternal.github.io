@@ -6,7 +6,8 @@ authors:
 - Josep Antoni Ramos-Quiroga
 - Susana Carmona
 - Vanesa Richarte
-- Jordi Fauquet;Óscar Vilarroya
+- Jordi Fauquet
+- Óscar Vilarroya
 date: "2018-01-01T00:00:00Z"
 doi: ""
 publishDate: "2018-01-01T00:00:00Z"

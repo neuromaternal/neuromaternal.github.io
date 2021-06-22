@@ -3,8 +3,8 @@ title: "Laminar thickness alterations in the fronto-parietal cortical mantle of 
 authors:
 - Elseline Hoekzema
 - Susana Carmona
-- J Antoni Ramos Quiroga
-- Vanesa Richarte Fernández
+- Josep Antoni Ramos-Quiroga
+- Vanesa Richarte 
 - Marisol Picado
 - Rosa Bosch
 - Juan Carlos Soliva

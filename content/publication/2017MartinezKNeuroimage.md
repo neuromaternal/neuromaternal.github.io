@@ -1,20 +1,20 @@
 ---
-title: "Individual differences in thedominance of interhemispheric connections predict cognitive ability beyond sex and brain size"
+title: "Individual differences in the dominance of interhemispheric connections predict cognitive ability beyond sex and brain size"
 authors:
-- Martinez K
-- Janssen J
-- Pineda-Pardo JÁ
-- Carmona S
-- Román FJ
-- Alemán-Gómez Y
-- Garcia-Garcia D
-- Escorial S
-- Quiroga MÁ
-- Santarnecchi E
-- Navas-Sánchez FJ
-- Desco M
-- Arango C
-- Colom R.
+- Kenia Martínez
+- Joost Janssen
+- Jose Ángel Pineda Pardo
+- Susana Carmona
+- Francisco J. Román
+- Yasser Alemán Gómez
+- David Garcia Garcia
+- Sergio Escorial
+- María Ángeles Quiroga
+- Emiliano Santarnecchi
+- Francisco J. Navas Sánchez
+- Manuel Desco
+- Celso Arango
+- Roberto Colom
 date: "2017-01-01T00:00:00Z"
 doi: ""
 publishDate: "2017-01-01T00:00:00Z"

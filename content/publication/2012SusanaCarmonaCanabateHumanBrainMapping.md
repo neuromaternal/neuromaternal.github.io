@@ -3,15 +3,15 @@ title: "Response inhibition and reward anticipation in medication-naïve adults 
 authors:
 - Susana Carmona
 - Elseline Hoekzema
-- Antonio Ramos Quiroga
+- Josep Antoni Ramos-Quiroga
 - Vanesa Richarte
 - Clara Canals
 - Rosa Bosch
 - Mariana Rovira
-- Joan Carles Soliva
+- Juan Carlos Soliva
 - Antoni Bulbena Vilarrasa
 - Adolf Tobeña
-- Miquel Casas
+- Miguel Casas
 - Óscar Vilarroya
 date: "2012-01-01T00:00:00Z"
 doi: ""

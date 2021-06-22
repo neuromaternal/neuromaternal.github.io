@@ -1,11 +1,11 @@
 ---
 title: "Cortical Morphometry in Frontoparietal and Default Mode Networks in Math-Gifted Adolescents"
 authors:
-- Francisco J. Navas-Sánchez
+- Francisco J. Navas Sánchez
 - Susana Carmona
-- Yasser Alemán-Gómez
-- Javier Sánchez-González
-- JuanGuzmán-de-Villoria
+- Yasser Alemán Gómez
+- Javier Sánchez González
+- Juan Guzmán de Villoria
 - Carolina Franco
 - Olalla Robles
 - Celso Arango

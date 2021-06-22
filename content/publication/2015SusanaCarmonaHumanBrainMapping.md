@@ -3,11 +3,11 @@ title: "Sensation-to-cognition cortical streams in attention-deficit/hyperactivi
 authors:
 - Susana Carmona
 - Elseline Hoekzema
-- Francisco X Castellanos
+- Francisco X. Castellanos
 - David García García
 - Agustín Lage Castellanos
-- Koene R A Van Dijk
-- Francisco J Navas Sánchez
+- Koene R. A. Van Dijk
+- Francisco J. Navas Sánchez
 - Kenia Martínez
 - Manuel Desco
 - Jorge Sepulcre

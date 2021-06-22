@@ -1,11 +1,11 @@
 ---
-title: "Learning biasesunderlying individual differences in sensitivity to social rejection"
+title: "Learning biases underlying individual differences in sensitivity to social rejection"
 authors:
 - Andreas Olsson
 - Susana Carmona
 - Geraldine Downey
 - Niall Bolger
-- Kevin N Ochsner
+- Kevin N. Ochsner
 date: "2013-01-01T00:00:00Z"
 doi: ""
 publishDate: "2013-01-01T00:00:00Z"

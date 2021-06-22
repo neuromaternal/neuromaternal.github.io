@@ -1,12 +1,12 @@
 ---
-title: "Stimulant drugs trigger transient volumetric changes in the humanventral striatum"
+title: "Stimulant drugs trigger transient volumetric changes in the human ventral striatum"
 authors:
 - Elseline Hoekzema
 - Susana Carmona
-- J Antoni Ramos Quiroga
+- Josep Antoni Ramos-Quiroga
 - Clara Canals
 - Ana Moreno
-- Vanesa Richarte Fernández
+- Vanesa Richarte
 - Marisol Picado
 - Rosa Bosch
 - Lurdes Duñó

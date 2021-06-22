@@ -5,7 +5,7 @@ authors:
 - María Álvarez Segura
 - María de la Iglesia Vaya
 - Luis Martí Bonmatí
-- Francisco Javier Castellanos
+- Francisco X. Castellanos
 date: "2011-01-01T00:00:00Z"
 doi: ""
 publishDate: "2011-01-01T00:00:00Z"

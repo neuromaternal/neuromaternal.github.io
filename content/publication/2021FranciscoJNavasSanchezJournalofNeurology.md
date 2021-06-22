@@ -1,18 +1,18 @@
 ---
 title: "Thalamic atrophy in patients with pure hereditary spastic paraplegia type 4"
 authors:
-- Francisco J. Navas Sanchez
+- Francisco J. Navas Sánchez
 - Alberto Fernández Pena
 - Daniel Martín de Blas
-- Yasser Alemán‑Gómez
+- Yasser Alemán Gómez
 - Luis Marcos Vidal
-- Juan A. Guzmán‑de‑Villoria
-- Pilar Fernández‑García
+- Juan A. Guzmán de Villoria
+- Pilar Fernández García
 - Julia Romero
 - Irene Catalina
 - Laura Lillo
-- José L. Muñoz‑Blanco
-- Andrés Ordoñez‑Ugalde
+- José L. Muñóz Blanco
+- Andrés Ordóñez Ugalde
 - Beatriz Quintáns
 - Julio Pardo
 - María Jesús Sobrido
