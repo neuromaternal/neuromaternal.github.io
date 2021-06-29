@@ -8,7 +8,7 @@ weight = 20  # Order that this section will appear.
 
 +++
 
-{{< figure src="img/Da_Vinci.jpeg" class="alignleft" width="70%">}}
+{{< figure src="img/Intro.png" class="alignleft" width="70%">}}
 
 Más cositas. Somos un equipo de investigación en neurociencia que estudia los cambios cerebrales asociados al embarazo, la maternidad y la paternidad.
 
