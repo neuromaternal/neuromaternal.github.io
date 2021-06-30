@@ -16,7 +16,7 @@ publishDate: "2015-01-01T00:00:00Z"
 publication_types: ["2"]
 publication: "In *European psychiatry: the journal of the Association of European Psychiatrists*"
 tags:
-- Others
+- Otros
 featured: false
 links:
 - name: Link
