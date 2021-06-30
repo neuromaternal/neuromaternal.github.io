@@ -5,7 +5,7 @@ layout: page
 # Optional header image (relative to `static/img/` folder).
 header:
   caption: ""
-  image: "cabecera_participa.jpg"
+  image: "imagen_BEMOTHER1_jpeg.jpeg"
 ---
 
 ### En qué consiste nuestro estudio
