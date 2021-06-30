@@ -17,8 +17,9 @@ El embarazo y la maternidad son uno de los eventos más transformadores del ser 
 La literatura científica acerca del embarazo contiene multitud de estudios que describen cómo el cuerpo de la mujer se adapta a nivel cardiovascular, renal, metabólico, respiratorio, muscular o endocrino [(1)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4928162/), y qué consecuencias pueden tener estas adaptaciones para la salud de la madre y del recién nacido [(2)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3376705/). Sin embargo, apenas se conoce cómo el cerebro de la mujer cambia durante el embarazo ni qué implicación tienen estos cambios para la salud y bienestar de la madre y del bebé. 
 
 En un estudio publicado en 2017 [(3)](https://pubmed.ncbi.nlm.nih.gov/27991897/), demostramos que el embarazo conlleva cambios sustanciales y duraderos en el cerebro de la madre. Estos cambios, que afectan principalmente a áreas implicadas en la empatía, parecen preparar a la madre para afrontar los retos de la maternidad. En concreto, se observó que cuanto más cambiaba el cerebro de la madre mejor era el vínculo entre madre e hijo. 
-
-
+\
+\
+\
 
 ## ¿QUÉ SABEMOS SOBRE LOS CAMBIOS CEREBRALES QUE ACOMPAÑAN AL EMBARAZO?
 
@@ -28,6 +29,9 @@ A raíz de este estudio nacieron una serie de preguntas. Entre las preguntas que
 - **¿Cuál es el curso temporal de los cambios cerebrales?** Integrando datos de diferentes estudios, tanto de nuestro grupo como de otros, parece ser que el curso temporal de los cambios se iniciaría con una disminución en el volumen de sustancia gris durante el embarazo [(3)](https://pubmed.ncbi.nlm.nih.gov/27991897/) [(6)](http://www.ajnr.org/content/23/1/19) seguida de un ligero incremento durante en el posparto temprano [(7)]((https://www.sciencedirect.com/science/article/abs/pii/S0091302220300662?via%3Dihub)) [(8)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6159922/) [(9)](https://pubmed.ncbi.nlm.nih.gov/32105976/). Este incremento no llegaría a la línea base inicial puesto que los cambios respecto al periodo pre-embarazo siguen observándose a los 2 años [(3)](https://pubmed.ncbi.nlm.nih.gov/27991897/), o incluso a los 6 años posparto [(10)](https://europepmc.org/article/pmc/pmc7912216). 
 - **¿Cambia también el cerebro de los padres?** En el estudio inicial no observamos cambios significativos en el volumen cerebral de los padres. Sin embargo, cuando ploteábamos las distribuciones de cambios anatómicos en madres, padres y controles, podíamos observar que la distribución de la muestra de padres se situaba entre la de madres y la de controles; algunos padres mostraban reducciones en el volumen de sustancia gris y otros no. En un estudio publicado en 2021 en el que utilizamos métodos basados en el análisis de superficies y estadística centrada en permutaciones, observamos cambios sutiles en el grosor cortical del precuneus en padres. También observamos que aquellos padres que mostraban mayor respuesta cerebral ante estímulos procedentes de su hijo también mostraban mayor cambio anatómico [(11)](https://academic.oup.com/cercorcomms/article/1/1/tgaa082/5955504).
 - **¿Existe relación entre los cambios cerebrales y la aparición de patología mental posparto?** Esta es una de las cuestiones que pretendemos  estudiar con los proyectos que estamos llevando a cabo en la actualidad. A fecha de hoy, hemos publicado un artículo de revisión sobre las bases cerebrales de la patología mental posparto [(12)](https://link.springer.com/article/10.1007/s00737-018-0889-z).
+\
+\
+\
 
 ## ¿CUÁL ES EL OBJETIVO DE NUESTRA INVESTIGACIÓN?
 

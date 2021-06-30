@@ -21,7 +21,7 @@ publishDate: "2019-01-01T00:00:00Z"
 publication_types: ["2"]
 publication: "In *Journal of the American Academy of Child and Adolescent Psychiatry*"
 tags:
-- Others
+- Otros
 featured: false
 links:
 - name: Link

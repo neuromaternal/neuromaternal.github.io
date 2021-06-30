@@ -18,7 +18,7 @@ publishDate: "2019-01-01T00:00:00Z"
 publication_types: ["2"]
 publication: "In *Human Brain Mapping*"
 tags:
-- Others
+- Otros
 featured: false
 links:
 - name: Link

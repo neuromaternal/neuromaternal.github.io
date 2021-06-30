@@ -134,7 +134,7 @@ sharing = true
 [publications]
   # Date format (refer to https://sourcethemes.com/academic/docs/customization/#date-format )
   #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
-  date_format = "January 2006"
+  date_format = "2006"
 
   # Citation style ("apa" or "mla")
   citation_style = "apa"
@@ -149,6 +149,7 @@ sharing = true
   post_view = 3
   publication_view = 3
   talk_view = 2
+  date_format = "2006"
 
 # Search.
 [search]

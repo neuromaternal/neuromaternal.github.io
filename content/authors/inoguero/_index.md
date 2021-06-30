@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Asistente de Investigación, Grado en Ingeniería Biomédica y Máster de Electromecánica
+role: Asistente de Investigación, Grado en Ingeniería Biomédica y Máster en Ingeniería Electromecánica
 
 # Short bio (displayed in user profile at end of posts)
 bio:

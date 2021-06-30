@@ -5,9 +5,9 @@
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = false  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 10  # Order that this section will appear.
+weight = 20  # Order that this section will appear.
 
-title = "Proyectos recientes"
+title = "Otros proyectos recientes"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
@@ -24,7 +24,7 @@ title = "Proyectos recientes"
 
   # Filter posts by a taxonomy term.
   [content.filters]
-    tag = "Project"
+    tag = "Otros"
     category = ""
     publication_type = ""
     exclude_featured = false
@@ -35,7 +35,7 @@ title = "Proyectos recientes"
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view = 4
+  view = 3
   
 [design.background]
   # Apply a background color, gradient, or image.

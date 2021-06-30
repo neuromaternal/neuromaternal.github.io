@@ -2,11 +2,10 @@
 title: "Participa"
 description: "Para participar en nuestro estudio de investigación"
 layout: page
-
 # Optional header image (relative to `static/img/` folder).
 header:
   caption: ""
-  image: ""
+  image: "cabecera_participa.jpg"
 ---
 
 ### En qué consiste nuestro estudio

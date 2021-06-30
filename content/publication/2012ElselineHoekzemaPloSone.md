@@ -20,7 +20,7 @@ publishDate: "2012-01-01T00:00:00Z"
 publication_types: ["2"]
 publication: "In *PloS one*"
 tags:
-- Others
+- Otros
 featured: false
 links:
 - name: Link
