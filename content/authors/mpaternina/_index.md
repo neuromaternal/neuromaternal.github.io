@@ -1,7 +1,7 @@
 ---
 # Display name
 name: María Paternina Die
-avatar_image: "mpaternina.jpg"
+avatar_image: "mpaternina.png"
 # Username (this should match the folder name)
 authors:
 - mpaternina
