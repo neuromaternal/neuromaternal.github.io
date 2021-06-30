@@ -1,18 +1,17 @@
 +++
 # A Recent Publications section created with the Pages widget.
-# This section displays recent blog posts from `content/publication/`.
+# This section displays recent blog posts from `content/project/`.
 
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = false  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
-title = "Otras publicaciones"
-# subtitle = "Publicaciones seleccionadas"
+title = "Otros proyectos recientes"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
-  page_type = "publication"
+  page_type = "project"
   
   # Choose how much pages you would like to display (0 = all pages)
   count = 0
@@ -36,7 +35,7 @@ title = "Otras publicaciones"
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view = 4
+  view = 2
   
 [design.background]
   # Apply a background color, gradient, or image.
