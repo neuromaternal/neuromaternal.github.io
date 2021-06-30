@@ -12,6 +12,6 @@ publishDate: "2020-10-01T00:00:00Z"
 publication_types: ["0"]
 publication: 'Entidad financiadora: BIAL Foundation (Portugal)'
 tags:
-- Maternidad
+- Otros
 featured: false
 ---
