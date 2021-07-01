@@ -36,7 +36,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Researchers
+- Investigadores
 ---
 Inés trabaja en el grupo de "NeuroMaternal" como técnico de apoyo a la investigación bajo la supervisión de la Doctora Carmona. Es graduada en ingeniería biomédica por la Universidad Politécnica de Madrid y actualmente se encuentra cursando un máster de Ingeniería Electromecánica en la misma institución. 
 

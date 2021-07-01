@@ -39,7 +39,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Researchers
+- Investigadores
 ---
 
 María Paternina Die está realizando sus estudios de doctorado en el grupo de Investigación “NeuroMaternal” bajo la supervisión de la Dra. Carmona. En 2018, obtuvo el título en Ingeniería Biomédica por la Universidad de Barcelona y en 2019 realizó el máster de Estadística para la Ciencia de Datos (Universidad Carlos III Madrid) obteniendo el premio a la excelencia de este. 

@@ -39,7 +39,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Researchers
+- Investigadores
 ---
 
 Magdalena Martínez García está realizando su tesis doctoral en el grupo de investigación ”NeuroMaternal” dirigido por la Dra. Susanna Carmona, con el programa de doctorado “Ciencia y  Tecnología Biomédica” de la Universidad Carlos III de Madrid. Es graduada en Biotecnología (Universidad Politécnica de Valencia) y tiene un Máster en Neurociencias (Universidad de Barcelona). Su investigación en el grupo se centra en caracterizar, mediante técnicas de neuroimagen, la remodelación del cerebro de las mujeres durante el embarazo, el parto y el posparto y en determinar cómo tales adaptaciones pueden desviarse de la normalidad y causar problemas de salud mental. En 2018 Magdalena recibió un contrato predoctoral PFIS del Instituto de Salud Carlos III, y en 2020 recibió una beca predoctoral Fulbright para completar su doctorado. en la University of Southern California de Los Ángeles, California. 
