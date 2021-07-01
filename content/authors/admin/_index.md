@@ -1,7 +1,7 @@
 ---
 # Display name
 name: Susana Carmona Cañabate
-avatar_image: "scarmona.png"
+avatar_image: "scarmona.jpg"
 # Username (this should match the folder name)
 authors:
 - admin

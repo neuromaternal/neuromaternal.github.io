@@ -26,11 +26,16 @@ interests:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+- icon: researchgate
+  icon_pack: ai
+  link: 'https://www.researchgate.net/profile/Francisco-Navas-Sanchez'
+- icon: orcid
+  icon_pack: ai
+  link: 'https://orcid.org/0000-0002-2954-228X'
+  # Enter email to display Gravatar (if Gravatar enabled in Config)
 - icon: envelope
   icon_pack: fas
   link: 'mailto:jnavas@hggm.es'  # For a direct email link, use "mailto:test@example.org".
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
   
 # Organizational groups that you belong to (for People widget)
