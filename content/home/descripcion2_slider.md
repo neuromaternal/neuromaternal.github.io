@@ -12,7 +12,7 @@ interval: false
 # Specify a height to ensure a consistent height for each slide.
 height: 450px
 item:
-  - title: 'Las reducciones en el volumen de sustancia gris asociadas al embarazo, **¿son similares a las que ocurrían durante la adolescencia?**'
+  - title: '¿QUÉ SABEMOS SOBRE LOS CAMBIOS CEREBRALES QUE ACOMPAÑAN AL EMBARAZO?'
     content: ''
     # Choose `center`, `left`, or `right` alignment.
     align: center
