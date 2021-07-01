@@ -10,12 +10,12 @@ interval: false
 
 # Minimum slide height.
 # Specify a height to ensure a consistent height for each slide.
-height: 450px
+height: 490px
 item:
   - title: '¿QUÉ SABEMOS SOBRE LOS CAMBIOS CEREBRALES QUE ACOMPAÑAN AL EMBARAZO?'
     content: ''
     # Choose `center`, `left`, or `right` alignment.
-    align: center
+    align: right
     # Overlay a color or image (optional).
     #   Deactivate an option by commenting out the line, prefixing it with `#`.
     overlay_color: '#666'  # An HTML color value.
@@ -29,27 +29,27 @@ item:
     #cta_icon_pack: fas
     #cta_icon: graduation-cap
   - title: 'Las reducciones en el volumen de sustancia gris asociadas al embarazo, **¿son similares a las que ocurrían durante la adolescencia?**'
-    content: 'Existen varios paralelismos entre el embarazo y la adolescencia: ambas etapas vitales se caracterizan por cambios físicos rápidos, grandes fluctuaciones hormonales, una mayor incidencia de trastornos mentales y reducciones en el volumen de sustancia gris. En un artículo publicado en 2019, indicamos que los cambios anatómicos asociados al embarazo son similares en magnitud y forma a los que se producen durante la adolescencia [(4)](https://pubmed.ncbi.nlm.nih.gov/30663172/).'
+    content: 'Existen varios paralelismos entre el embarazo y la adolescencia: ambas etapas vitales se caracterizan por cambios físicos rápidos, grandes fluctuaciones hormonales, una mayor incidencia de trastornos mentales y reducciones en el volumen de sustancia gris. [En un artículo publicado en 2019](https://pubmed.ncbi.nlm.nih.gov/30663172/), indicamos que **los cambios anatómicos asociados al embarazo son similares en magnitud y forma a los que se producen durante la adolescencia**.'
     align: right
     overlay_color: '#555'
     overlay_img: 'neuroimagen1.png'
     overlay_filter: 0.6
   - title: '**¿Son los cambios similares a los que se observan en roedores?**'
-    content: 'Según los estudios en roedores, una de las regiones clave del circuito maternal es el núcleo accumbens; área central del circuito mesolímbico dopaminérgico. Estos estudios indican que las fluctuaciones hormonales asociadas al embarazo y al parto producen cambios en la anatomía y función del núcleo accumbens, facilitando el inicio de la conducta maternal. Según la literatura animal, estos cambios presumiblemente “convierten” a las crías en el estímulo apetitivo más relevante para la madre durante el posparto.  En un estudio publicado en 2020 demostramos que en mujeres la anatomía de esta estructura subcortical también se modifica durante el embarazo y que cuanto mayor es el cambio anatómico mayor es la respuesta funcional de esta región ante estímulos asociados al bebé [(5)](https://www.sciencedirect.com/science/article/pii/S030645301931248X?via%3Dihub).'
-    align: center
-    overlay_color: '#333'
+    content: 'Según los estudios en roedores, una de las regiones clave del circuito maternal es el núcleo accumbens; área central del circuito mesolímbico dopaminérgico. Estos estudios indican que las **fluctuaciones hormonales asociadas al embarazo y al parto producen cambios en la anatomía y función de esta estructura, facilitando el inicio de la conducta maternal**. [En un estudio publicado en 2020](https://www.sciencedirect.com/science/article/pii/S030645301931248X?via%3Dihub) demostramos que en mujeres la anatomía de esta estructura subcortical también se modifica durante el embarazo y que cuanto mayor es el cambio anatómico mayor es la respuesta funcional de esta región ante estímulos asociados al bebé.'
+    align: left
+    overlay_color: '#dc76ad'
     overlay_img: ''
-    overlay_filter: 0.5
+    overlay_filter: 0.9
   - title: '**¿Cambia también el cerebro de los padres?**'
-    content: 'En el estudio inicial no observamos cambios significativos en el volumen cerebral de los padres. Sin embargo, cuando ploteábamos las distribuciones de cambios anatómicos en madres, padres y controles, podíamos observar que la distribución de la muestra de padres se situaba entre la de madres y la de controles; algunos padres mostraban reducciones en el volumen de sustancia gris y otros no. En un estudio publicado en 2021, en el que utilizamos métodos basados en el análisis de superficies y estadística centrada en permutaciones, observamos cambios sutiles en el grosor cortical del precuneus en padres. También observamos que aquellos padres que mostraban mayor respuesta cerebral ante estímulos procedentes de su hijo también mostraban mayor cambio anatómico [(11)](https://academic.oup.com/cercorcomms/article/1/1/tgaa082/5955504).'
-    align: center
+    content: 'En el estudio inicial no observamos cambios significativos en el volumen cerebral de los padres. Sin embargo, cuando ploteábamos las distribuciones de cambios anatómicos en madres, padres y controles, podíamos observar que la distribución de la muestra de padres se situaba entre la de madres y la de controles; **algunos padres mostraban reducciones en el volumen de sustancia gris y otros no**. [En un estudio publicado en 2021](https://academic.oup.com/cercorcomms/article/1/1/tgaa082/5955504), en el que utilizamos métodos basados en el análisis de superficies y estadística centrada en permutaciones, observamos cambios sutiles en el grosor cortical del precuneus en padres. También observamos que **aquellos padres que mostraban mayor respuesta cerebral ante estímulos procedentes de su hijo también mostraban mayor cambio anatómico.**'
+    align: right
     overlay_color: '#333'
-    overlay_img: ''
+    overlay_img: 'father2.jpg'
     overlay_filter: 0.5
   - title: '**¿Existe relación entre los cambios cerebrales y la aparición de patología mental posparto?**'
-    content: 'Esta es una de las cuestiones que pretendemos  estudiar con los proyectos que estamos llevando a cabo en la actualidad. A fecha de hoy, hemos publicado un artículo de revisión sobre las bases cerebrales de la patología mental posparto [(12)](https://link.springer.com/article/10.1007/s00737-018-0889-z).'
-    align: center
-    overlay_color: '#333'
+    content: '**Esta es una de las cuestiones que pretendemos  estudiar con los proyectos que estamos llevando a cabo en la actualidad.** A fecha de hoy, hemos publicado un [artículo de revisión](https://link.springer.com/article/10.1007/s00737-018-0889-z) sobre las **bases cerebrales de la patología mental posparto**.'
+    align: left
+    overlay_color: '#dc76ad'
     overlay_img: ''
     overlay_filter: 0.5
 ---
