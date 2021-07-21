@@ -26,6 +26,12 @@ interests:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+- icon: orcid
+  icon_pack: ai
+  link: 'https://orcid.org/0000-0001-6985-9460'
+- icon: twitter
+  icon_pack: fab
+  linkg: 'https://twitter.com/dmartindeblas'
 - icon: envelope
   icon_pack: fas
   link: 'mailto:dmartindeblas@hggm.es'  # For a direct email link, use "mailto:test@example.org".

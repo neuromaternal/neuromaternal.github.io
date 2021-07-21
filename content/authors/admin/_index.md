@@ -37,12 +37,16 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+- icon: google-scholar
+  icon_pack: ai
+  link: 'https://scholar.google.es/citations?user=v8KVfh0AAAAJ&hl=es'
+- icon: researchgate
+  icon_pack: ai
+  link: 'https://www.researchgate.net/profile/Susanna-Carmona'
 - icon: envelope
   icon_pack: fas
   link: 'mailto:scarmona@hggm.es'  # For a direct email link, use "mailto:test@example.org".
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.es/citations?user=v8KVfh0AAAAJ&hl=es
+
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""

@@ -276,6 +276,9 @@ a.hero-cta-alt:hover {
   object-fit: cover;
 }
 
+.col-lg-7{
+  text-align: justify;
+}
 .portrait-title h2 {
   font-size: 1.75em;
   font-weight: 300;
@@ -498,28 +501,46 @@ ul.ul-edu li .description p.institution {
   text-align: center;
 }
 
-.people-widget .portrait-title h2 {
-  font-size: 1rem;
-}
-
-.people-widget .portrait-title h3 {
-  font-size: 0.7rem;
-}
-
 .people-widget .portrait {
   width: 80%;
   max-width: 150px;
   height: auto;
 }
 
+//Vista movil
+@media (min-width: 340px) {
+  .people-widget .col-sm-auto {
+    width: 30%;
+  }
+  .people-widget .portrait-title h2 {
+    font-size: 1rem;
+  }
+  .people-widget .portrait-title h3 {
+    font-size: 0.7rem;
+  }
+}
+//Vista tablet
 @media (min-width: 576px) {
   .people-widget .col-sm-auto {
     width: 30%;
   }
+  .people-widget .portrait-title h2 {
+    font-size: 1rem;
+  }
+  .people-widget .portrait-title h3 {
+    font-size: 0.7rem;
+  }
 }
+//Vista ordenador
 @media (min-width: 992px) {
   .people-widget .col-sm-auto {
     width: 20%;
+  }
+  .people-widget .portrait-title h2 {
+    font-size: 1rem;
+  }
+  .people-widget .portrait-title h3 {
+    font-size: 0.6rem;
   }
 }
 
