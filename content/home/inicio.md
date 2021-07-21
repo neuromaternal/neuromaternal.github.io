@@ -39,15 +39,14 @@ hero_media = "Intro.png"
 #   Remove a link/note by deleting a cta/note block.
 [btn]
   url = "participa"
-  label = "Participa"
+  label = "Cuéntame más"
   
 # [btn_alt]
- # url = "#Participa"
-# label = "Participa"
+# url = "participa"
+# label = "Cuéntame más"
 
 +++
 
-## **Bienvenidos a la web de NeuroMaternal**  
 Somos un equipo de investigación en neurociencia que estudia los cambios cerebrales asociados al embarazo, la maternidad y la paternidad.
 
 Si deseas más información sobre cómo participar en nuestro estudio haz click aquí
