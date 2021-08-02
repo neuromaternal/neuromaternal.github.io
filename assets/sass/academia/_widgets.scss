@@ -57,12 +57,15 @@
 }*/
 
 /* Create the parallax scrolling effect */
+//Style for "Home" and "Publicaciones y patentes" header
 .parallax {
   height: 100%;
-  background-attachment: fixed;
+  background-attachment: local;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+  font-size: 1.1rem;
+  text-align: center;
 }
 
 .home-section:first-of-type {
@@ -134,8 +137,14 @@
   animation: intro 0.3s both;
   animation-delay: 0s;
   animation-delay: 0.25s;
+  // Space between hero widget and other sections
+  padding-top: 20px;
+  padding-bottom: 10px;
 }
-
+//Change paragraphs and lists font size
+.wg-hero p ul{
+  font-size: 0.7rem;
+}
 .hero-title {
   font-size: 2rem;
   margin-top: 0;
@@ -188,10 +197,6 @@ a.hero-cta-alt:hover {
   transform: scale(1.1);
 }
 
-.wg-hero .btn-lg {
-  font-size: 1.1rem;
-}
-
 .wg-hero .hero-note {
   font-size: 0.8rem;
 }
@@ -204,6 +209,32 @@ a.hero-cta-alt:hover {
   text-align: center;
 }
 
+//Centrar el botón. El tamaño de letra se cambia en _button.scss
+//Vista móvil
+@media (min-width: 300px) {
+  .btn-lg .btn-group-lg .btn{
+    margin-left:15%;
+  }
+}
+//Vista tablet
+@media (min-width: 650px) {
+  .wg-hero .btn-lg {
+    margin-left: 25%;
+  }
+}
+//Vista ordenador
+@media (min-width: 992px) {
+  .wg-hero .btn-lg {
+    margin-left: 40%;
+  }
+}
+
+//H 
+section#0inicio.home-section.wg-hero.col-md-6.order-md-1.text-center.text-md-left.align-self-center.p{
+  font-size: 1rem;
+  text-align: center;
+  padding-top: 5px;
+}
 /*************************************************
  *  Slider Widget
  **************************************************/
