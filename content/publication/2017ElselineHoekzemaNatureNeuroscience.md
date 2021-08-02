@@ -21,6 +21,6 @@ tags:
 - Maternidad
 featured: false
 links:
-- name: Link
+- name: Enlace al artículo
   url: https://www.nature.com/articles/nn.4458
 ---

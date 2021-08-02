@@ -21,6 +21,6 @@ tags:
 - Maternidad
 featured: false
 links:
-- name: Link
+- name: Enlace al artículo
   url: https://academic.oup.com/cercorcomms/article/1/1/tgaa082/5955504
 ---

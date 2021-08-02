@@ -23,6 +23,6 @@ tags:
 - Maternidad
 featured: false
 links:
-- name: Link
+- name: Enlace al artículo
   url: https://www.sciencedirect.com/science/article/pii/S030645301931248X
 ---

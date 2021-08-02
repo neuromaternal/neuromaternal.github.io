@@ -28,6 +28,6 @@ tags:
 - Otros
 featured: false
 links:
-- name: Link
+- name: Enlace al artículo
   url: https://link.springer.com/article/10.1007/s00415-020-10387-4
 ---

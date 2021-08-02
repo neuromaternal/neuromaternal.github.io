@@ -15,6 +15,6 @@ tags:
 - Otros
 featured: false
 links:
-- name: Link
+- name: Enlace al artículo
   url: https://www.neurologia.com/articulo/2010792/eng
 ---

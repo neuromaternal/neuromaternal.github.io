@@ -19,6 +19,6 @@ tags:
 - Otros
 featured: false
 links:
-- name: Link
+- name: Enlace al artículo
   url: https://www.sciencedirect.com/science/article/abs/pii/S0028393216302780
 ---

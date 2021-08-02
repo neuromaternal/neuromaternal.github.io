@@ -15,6 +15,6 @@ tags:
 - Otros
 featured: false
 links:
-- name: Link
+- name: Enlace al artículo
   url: https://pubmed.ncbi.nlm.nih.gov/22136287/
 ---

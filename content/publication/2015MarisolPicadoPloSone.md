@@ -22,6 +22,6 @@ tags:
 - Otros
 featured: false
 links:
-- name: Link
+- name: Enlace al artículo
   url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0119847
 ---

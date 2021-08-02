@@ -27,6 +27,6 @@ tags:
 - Maternidad
 featured: true
 links:
-- name: Link
+- name: Enlace al artículo
   url: https://www.mdpi.com/2076-3425/11/2/168
 ---

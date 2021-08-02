@@ -15,6 +15,6 @@ tags:
 - Otros
 featured: false
 links:
-- name: Link
+- name: Enlace al artículo
   url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4067255/
 ---

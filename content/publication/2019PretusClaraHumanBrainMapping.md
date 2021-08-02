@@ -21,6 +21,6 @@ tags:
 - Otros
 featured: false
 links:
-- name: Link
+- name: Enlace al artículo
   url: https://onlinelibrary.wiley.com/doi/epdf/10.1002/hbm.24727
 ---
