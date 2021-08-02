@@ -15,3 +15,5 @@ user_groups = ["Investigadora Principal",
                "Investigadores"]
 
 +++
+
+El grupo de NeuroMaternal es un equipo multidisciplinar especializado en el análisis de neuroimagen que se acoge bajo el [Instituto de Investigación Sanitaria del Hospital Universitario Gregorio Marañón](https://www.iisgm.com/).
