@@ -10,7 +10,7 @@ title = "Participa"
 hero_media = ""
  
  [design]
-  columns = 2
+  columns = 1
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -38,7 +38,7 @@ hero_media = ""
 #   Remove a link/note by deleting a cta/note block.
 [btn]
   url = "https://forms.office.com/pages/responsepage.aspx?id=KUxRa5EjMUi3dITzXEW_AXbnTZpslIlGrfjJg-Ysz71UMUZXTFBSVlkxVTRIT1o3QUxONEtYMzY3USQlQCN0PWcu"
-  label = "Formulario"
+  label = "Más información sobre cómo participar"
   
 # [btn_alt]
 # url = "participa"
@@ -49,9 +49,4 @@ hero_media = ""
 
 #
 
-Actualmente **estamos buscando** :
- * mujeres de entre 25 y 45 años que estén **embarazadas por primera vez**
- y
- * mujeres **que no tengan hijos ni tengan pensado tenerlos en un futuro próximo**
-
-Si cumples los requisitos de uno de los grupos y deseas tener más información sobre el proyecto, por favor, rellena el siguiente formulario y nos pondremos en contacto contigo:
+**Estamos buscando** mujeres de entre 25 y 45 años que estén **embarazadas por primera vez** y que residan en **Madrid**.

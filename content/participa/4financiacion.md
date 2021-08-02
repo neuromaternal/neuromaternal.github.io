@@ -6,10 +6,10 @@ active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media = ""
+hero_media = "logos_bloque.png"
  
  [design]
-  columns = 2
+  columns = 1
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -36,5 +36,4 @@ hero_media = ""
 +++
 
 
-*Este estudio está financiado por el Ministerio de Ciencia e Innovación, Instituto de Salud Carlos III, proyectos “CP16/00096 y PI17/00064” y por el Fondo Europeo de Desarrollo Regional (FEDER), “Una manera de hacer Europa”*
-
+*Este estudio está financiado por el Ministerio de Ciencia e Innovación, el Instituto de Salud Carlos III, proyectos “CP16/00096 y PI17/00064”, por el Fondo Europeo de Desarrollo Regional (FEDER), “Una manera de hacer Europa” y por 'La Caixa' Banking Foundation*

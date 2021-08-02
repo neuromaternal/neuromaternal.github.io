@@ -27,5 +27,5 @@ weight = 20  # Order that this section will appear.
   text_color_light = false
 +++
 
-
-*Atención: rellenar este formulario NO implica que des tu consentimiento a participar en el estudio, únicamente que deseas recibir más información.*
+Consulta el siguiente vídeo para conocer más acerca del propio estudio y de nuestras motivaciones.
+{{< youtube yQLrt-HDCfk >}}

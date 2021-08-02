@@ -41,7 +41,3 @@ Este estudio no podría realizarse sin vosotras. Gracias a vuestro tiempo y vues
 
 * Caracterizar cómo se reorganiza el cerebro durante la transición a la maternidad
 * Determinar si existe relación entre los cambios cerebrales, el vínculo maternofilial y la aparición de trastornos mentales posparto. 
-
-En el siguiente vídeo puedes conocer más acerca del propio estudio y de nuestras motivaciones.
-{{< youtube yQLrt-HDCfk >}}
-
