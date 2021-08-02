@@ -22,6 +22,6 @@ tags:
 - Otros
 featured: false
 links:
-- name: Link
+- name: Enlace al proyecto
   url: https://www.aspide-project.eu/
 ---

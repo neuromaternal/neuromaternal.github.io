@@ -17,6 +17,6 @@ tags:
 - Maternidad
 featured: false
 links:
-- name: Link
+- name: Página web del proyecto
   url: https://bemother.eu/
 ---

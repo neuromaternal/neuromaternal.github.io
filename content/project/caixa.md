@@ -16,7 +16,5 @@ publication_types: ["0"]
 publication: "Entidad financiadora: 'La Caixa' Banking Foundation"
 tags:
 - Maternidad
-featured: false
-links:
-- name: 
+featured: false 
 ---
