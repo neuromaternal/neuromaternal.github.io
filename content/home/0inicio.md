@@ -26,4 +26,4 @@ design:
     text_color_light: true
 
 ---
-{{<figure src="img/fila_logos_2.png" width="100%">}}
+{{<figure src="img/logos_fila.png" width="100%">}}
