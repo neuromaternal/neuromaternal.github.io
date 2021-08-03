@@ -209,11 +209,15 @@ a.hero-cta-alt:hover {
   text-align: center;
 }
 
+
 //Centrar el botón. El tamaño de letra se cambia en _button.scss
 //Vista móvil
 @media (min-width: 300px) {
   .btn-lg .btn-group-lg .btn{
     margin-left:15%;
+  }
+  .alignleft{
+    margin-left:40px;
   }
 }
 //Vista tablet
@@ -229,7 +233,7 @@ a.hero-cta-alt:hover {
   }
 }
 
-//H 
+// 
 section#0inicio.home-section.wg-hero.col-md-6.order-md-1.text-center.text-md-left.align-self-center.p{
   font-size: 1rem;
   text-align: center;
@@ -315,6 +319,7 @@ section#0inicio.home-section.wg-hero.col-md-6.order-md-1.text-center.text-md-lef
   font-weight: 300;
   color: #000000;
   margin: 20px 0 10px 0;
+  text-align: center;
 }
 
 .portrait-title h3 {
