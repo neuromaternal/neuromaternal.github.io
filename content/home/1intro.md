@@ -16,10 +16,10 @@ weight = 20  # Order that this section will appear.
 # label = "Cuéntame más"
 +++
 
-{{< figure src="img/intro_mujer.png" class="alignleft" width="80%">}}
+{{< figure src="img/intro_mujer.png" class="alignleft" width="90%">}}
 
 #
-El embarazo y la maternidad son uno de los eventos más transformadores del ser humano tanto a nivel biológico como psicológico y social. 
+El embarazo y la maternidad son unos de los eventos más transformadores del ser humano tanto a nivel biológico como psicológico y social. 
 
 La literatura científica acerca del embarazo contiene multitud de estudios que describen cómo el cuerpo de la mujer se adapta a nivel cardiovascular, renal, metabólico, respiratorio, muscular o endocrino, y qué consecuencias pueden tener para la salud de la madre y del recién nacido. Sin embargo, **apenas se conoce cómo el cerebro de la mujer cambia durante el embarazo ni qué implicación tienen estos cambios para la salud y bienestar de la madre y del bebé**. 
 
