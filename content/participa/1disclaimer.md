@@ -27,5 +27,5 @@ weight = 20  # Order that this section will appear.
   text_color_light = false
 +++
 
-Consulta el siguiente vídeo para conocer más acerca del propio estudio y de nuestras motivaciones.
+Consulta el siguiente vídeo para conocer más acerca del estudio y de nuestras motivaciones.
 {{< youtube yQLrt-HDCfk >}}
