@@ -1,0 +1,165 @@
+---
+title: "Virtual ontogeny of cortical growth preceding mental illness"
+authors:
+- Yash Patel
+- Jean Shin
+- Christoph Abé
+- Ingrid Agartz
+- Clara Alloza
+- Dag Alnæs
+- Sonia Ambrogi
+- Linda A Antonucci
+- Celso Arango
+- Volker Arolt
+- Guillaume Auzias
+- Rosa Ayesa-Arriola
+- Nerisa Banaj
+- Tobias Banaschewski
+- Cibele Bandeira
+- Zeynep Başgöze
+- Renata Basso Cupertino
+- Claiton HD Bau
+- Jochen Bauer
+- Sarah Baumeister
+- Fabio Bernardoni
+- Alessandro Bertolino
+- Caterina del Mar Bonnin
+- Daniel Brandeis
+- Silvia Brem
+- Jason Bruggemann
+- Robin Bülow
+- Juan R Bustillo
+- Sara Calderoni
+- Rosa Calvo
+- Erick J Canales-Rodríguez
+- Dara M Cannon
+- Susanna Carmona
+- Vaughan J Carr
+- Stanley V Catts
+- Sneha Chenji
+- Qian Hui Chew
+- David Coghill
+- Colm G Connolly
+- Annette Conzelmann
+- Alexander R Craven
+- Benedicto Crespo-Facorro
+- Kathryn Cullen
+- Andreas Dahl
+- Udo Dannlowski
+- Christopher G Davey
+- Christine Deruelle
+- Covadonga M Díaz-Caneja
+- Katharina Dohm
+- Stefan Ehrlich
+- Jeffery Epstein
+- Tracy Erwin-Grabner
+- Lisa T Eyler
+- Jennifer Fedor
+- Jacqueline Fitzgerald
+- William Foran
+- Judith M Ford
+- Lydia Fortea
+- Paola Fuentes-Claramonte
+- Janice Fullerton
+- Lisa Furlong
+- Louise Gallagher
+- Bingchen Gao
+- Si Gao
+- Jose M Goikolea
+- Ian Gotlib
+- Roberto Goya-Maldonado
+- Hans J Grabe
+- Melissa Green
+- Eugenio H Grevet
+- Nynke A Groenewold
+- Dominik Grotegerd
+- Oliver Gruber
+- Jan Haavik
+- Tim Hahn
+- Ben J Harrison
+- Walter Heindel
+- Frans Henskens
+- Dirk J Heslenfeld
+- Eva Hilland
+- Pieter J Hoekstra
+- Sarah Hohmann
+- Nathalie Holz
+- Fleur M Howells
+- Jonathan C Ipser
+- Neda Jahanshad
+- Babette Jakobi
+- Andreas Jansen
+- Joost Janssen
+- Rune Jonassen
+- Anna Kaiser
+- Vasiliy Kaleda
+- James Karantonis
+- Joseph A King
+- Tilo Kircher
+- Peter Kochunov
+- Sheri-Michelle Koopowitz
+- Mikael Landén
+- Nils Inge Landrø
+- Stephen Lawrie
+- Irina Lebedeva
+- Beatriz Luna
+- Astri J Lundervold
+- Frank P MacMaster
+- Luigi A Maglanoc
+- Daniel H Mathalon
+- Colm McDonald
+- Andrew McIntosh
+- Susanne Meinert
+- Patricia T Michie
+- Philip Mitchell
+- Ana Moreno-Alcázar
+- Bryan Mowry
+- Filippo Muratori
+- Leila Nabulsi
+- Igor Nenadić
+- Ruth O'Gorman Tuura
+- Jaap Oosterlaan
+- Bronwyn Overs
+- Christos Pantelis
+- Mara Parellada
+- Jose C Pariente
+- Paul Pauli
+- Giulio Pergola
+- Francesco Maria Piarulli
+- Felipe Picon
+- Fabrizio Piras
+- Edith Pomarol-Clotet
+- Clara Pretus
+- Yann Quidé
+- Joaquim Radua
+- J Antoni Ramos-Quiroga
+- Paul E Rasser
+- Andreas Reif
+- Alessandra Retico
+- Gloria Roberts
+- Susan Rossell
+- Diego Luiz Rovaris
+- Katya Rubia
+- Matthew Sacchet
+- Josep Salavert
+- Raymond Salvador
+- Salvador Sarró
+- Akira Sawa
+- Ulrich Schall
+- Rodney Scott
+- Pierluigi Selvaggi
+- Tim Silk
+- Kang Sim
+- Antonin Skoch
+date: "2022-03-04T00:00:00Z"
+doi: ""
+publishDate: "2022-03-04T00:00:00Z"
+publication_types: ["2"]
+publication: "In *Biological Psychiatry*"
+tags:
+- Maternidad
+featured: true
+links:
+- name: Enlace al artículo
+  url: https://www.sciencedirect.com/science/article/abs/pii/S0006322322010678
+---
