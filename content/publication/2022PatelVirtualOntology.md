@@ -157,7 +157,7 @@ publishDate: "2022-03-04T00:00:00Z"
 publication_types: ["2"]
 publication: "In *Biological Psychiatry*"
 tags:
-- Maternidad
+- Otros
 featured: true
 links:
 - name: Enlace al artículo
