@@ -15,6 +15,6 @@ tags:
 - Thesis
 featured: false
 links:
-#- name: Enlace a la tesis
-#  url: https://e-archivo.uc3m.es/bitstream/handle/10016/35978/tesis_luis_marcos_vidal_2022.pdf
+- name: Enlace a la tesis
+  url: https://e-archivo.uc3m.es/bitstream/handle/10016/36450/tesis_magdalena-teresa_martinez_garcia_2023.pdf
 ---
