@@ -1,7 +1,7 @@
 ---
-title: "The transition to motherhood: linking hormones, brain and behaviour"
+title: "Women’s neuroplasticity during gestation, childbirth and postpartum"
 authors:
-- María Paternina-Die
+- María Paternina Die
 - Magdalena Martínez García
 - Daniel Martín de Blas
 - Inés Noguero
