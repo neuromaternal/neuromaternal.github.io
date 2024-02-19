@@ -49,4 +49,4 @@ hero_media = ""
 
 #
 
-**Estamos buscando** mujeres de entre 25 y 45 años que estén **embarazadas por primera vez** y que residan en **Madrid**.
+**Estamos buscando** mujeres de entre 25 y 45 años que estén buscando **su primer embarazo** y que residan en **Madrid**.
