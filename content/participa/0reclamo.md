@@ -49,6 +49,10 @@ hero_media = ""
 
 #
 
-**Estamos buscando** mujeres de entre 25 y 45 años que estén buscando **su primer embarazo** y que residan en **Madrid**.
+**Estamos buscando** mujeres **sin hijos** de entre 25 y 45 años que residan en **Madrid** y que se encuentren en algunos de los siguientes casos:
 
-Si quieres más información sobre cómo participar envianos un correo a [neuro.maternal@gmail.com](mailto:neuro.maternal@gmail.com).
+  - Estén buscando **su primer embarazo**.
+  - En proceso de **adopción de un bebé entre 0 y 2 años**.
+  - Parejas qué estén buscando **su primer embarazo** a través del **método ROPA**.
+
+Si quieres más información sobre cómo participar envíanos un correo a: [neuro.maternal@gmail.com](mailto:neuro.maternal@gmail.com).
