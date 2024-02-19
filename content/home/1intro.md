@@ -16,7 +16,7 @@ weight = 20  # Order that this section will appear.
 # label = "Cuéntame más"
 +++
 
-{{< figure src="img/intro_nncover.png" class="alignleft" width="50%">}}
+{{< figure src="img/intro_nncover.png" class="alignleft" width="30%">}}
 
 #
 El embarazo y la maternidad son unos de los eventos más transformadores del ser humano tanto a nivel biológico como psicológico y social. 
