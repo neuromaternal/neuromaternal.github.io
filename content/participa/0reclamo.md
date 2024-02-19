@@ -36,9 +36,9 @@ hero_media = ""
 # Call to action links (optional).
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
-[btn]
-  url = "https://forms.office.com/pages/responsepage.aspx?id=KUxRa5EjMUi3dITzXEW_AXbnTZpslIlGrfjJg-Ysz71UMUZXTFBSVlkxVTRIT1o3QUxONEtYMzY3USQlQCN0PWcu"
-  label = "Más información sobre cómo participar"
+# [btn]
+#  url = "https://forms.office.com/pages/responsepage.aspx?id=KUxRa5EjMUi3dITzXEW_AXbnTZpslIlGrfjJg-Ysz71UMUZXTFBSVlkxVTRIT1o3QUxONEtYMzY3USQlQCN0PWcu"
+#  label = "Más información sobre cómo participar"
   
 # [btn_alt]
 # url = "participa"
@@ -50,3 +50,5 @@ hero_media = ""
 #
 
 **Estamos buscando** mujeres de entre 25 y 45 años que estén buscando **su primer embarazo** y que residan en **Madrid**.
+
+Si quieres más información sobre cómo participar envianos un correo a [neuro.maternal@gmail.com](mailto:neuro.maternal@gmail.com).
