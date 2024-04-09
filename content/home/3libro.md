@@ -19,7 +19,7 @@ weight = 30  # Order that this section will appear.
 #
 ## Libro: Neuromaternal
 
-En el libro **Neuromatenal** traducimos a un lenguaje de divulgación los principales resultados de nuestros estudios
+En el libro [**Neuromatenal**](https://www.penguinlibros.com/es/ciencia-y-tecnologia/339781-libro-neuromaternal-9788466678087) traducimos a un lenguaje de divulgación los principales resultados de nuestros estudios
 
 {{< figure src="img/neuromaternal_book_small.jpg" class="alignleft" width="80%">}}
 ### Descripción
@@ -29,4 +29,4 @@ El 85 % de las mujeres experimenta un embarazo en algún momento de su vida. Si 
 
 ### Reseñas:
 «Este libro cubre un hueco que era necesario cerrar; nos brinda a las mujeres una información que nos permite comprendernos desde lo más profundo, como mujeres y como madres. Un libro escrito con erudición, rigor y cercanía, en el que Susana nos acompaña, desde su experiencia personal y su sólida trayectoria científica, en el viaje que da vida a la humanidad».
-Nazareth Castellanos
+**Nazareth Castellanos**
