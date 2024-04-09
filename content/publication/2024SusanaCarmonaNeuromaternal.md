@@ -16,6 +16,6 @@ tags:
 - Maternidad
 featured: true
 links:
-- name: Link
+- name: Enlace al libro
   url: https://www.penguinlibros.com/es/ciencia-y-tecnologia/339781-libro-neuromaternal-9788466678087
 ---
