@@ -3,7 +3,7 @@
 widget = "hero"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 20  # Order that this section will appear.
+weight = 30  # Order that this section will appear.
 # Call to action links (optional).
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
@@ -16,7 +16,7 @@ weight = 20  # Order that this section will appear.
 # label = "Enlace al libro"
 +++
 
-{{< figure src="img/neuromaternal_book.jpg" class="alignleft" width="80%">}}
+{{< figure src="img/neuromaternal_book_small.jpg" class="alignleft" width="80%">}}
 
 #
 
