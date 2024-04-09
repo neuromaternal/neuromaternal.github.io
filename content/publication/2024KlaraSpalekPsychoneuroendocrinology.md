@@ -4,14 +4,14 @@ authors:
 - Klara Spalek
 - Milou Straathof
 - Lal Koyuncu
-- Håkon Grydeland
+- Hakon Grydeland
 - Anouk van der Geest
-- Sophie R van‘t Hof
-- Eveline A Crone
+- Sophie R. van't Hof
+- Eveline A. Crone
 - Erika Barba-Müller
 - Susana Carmona
 - Damiaan Denys
-- Christian K Tamnes
+- Christian K. Tamnes
 - Sarah Burke
 - Elseline Hoekzema
 

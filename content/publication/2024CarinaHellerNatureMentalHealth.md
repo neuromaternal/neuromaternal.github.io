@@ -3,16 +3,16 @@ title: "The ENIGMA-Neuroendocrinology working group to bridge gaps in female men
 authors:
 - Carina Heller
 - Claudia Barth
-- Tim J Silk
+- Tim J. Silk
 - Nandita Vijayakumar
 - Susana Carmona
-- Magdalena Martínez-García
+- Magdalena Martínez García
 - Zora Kikinis
-- Sophia I Thomopoulos
+- Sophia I. Thomopoulos
 - Neda Jahanshad 
 - Lauren Salminen
 - Katherine Lawrence
-- Paul M Thompson 
+- Paul M. Thompson 
 - Nicole Petersen
 
 date: "2024-03-27T00:00:00Z"
