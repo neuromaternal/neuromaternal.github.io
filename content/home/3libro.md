@@ -16,13 +16,14 @@ weight = 30  # Order that this section will appear.
 # label = "Enlace al libro"
 +++
 
-{{< figure src="img/neuromaternal_book_small.jpg" class="alignleft" width="80%">}}
-
 #
 
 En el libro **Neuromatenal** traducimos a un lenguaje de divulgación los principales resultados de nuestros estudios
 
 ## Libro: Neuromaternal
+
+{{< figure src="img/neuromaternal_book_small.jpg" class="alignleft" width="80%">}}
+
 ### Descripción
 La neurociencia, por fin, respalda lo que las mujeres ya intuíamos: la maternidad nos transforma. Gracias a estudios rigurosos que analizan imágenes cerebrales, hoy podemos demostrar que el embarazo modifica profundamente el cerebro de la mujer, facilitando así la transición a la maternidad.
 
