@@ -13,7 +13,7 @@ publication_types: ["5"]
 publication: "*Penguin Random House*"
 tags:
 - Books
-- Maternidad
+# - Maternidad
 featured: true
 links:
 - name: Enlace al libro
