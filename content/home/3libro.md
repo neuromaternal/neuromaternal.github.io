@@ -8,17 +8,19 @@ weight = 20  # Order that this section will appear.
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
  [btn]
-  url = https://www.penguinlibros.com/es/ciencia-y-tecnologia/339781-libro-neuromaternal-9788466678087
+  url = "https://www.penguinlibros.com/es/ciencia-y-tecnologia/339781-libro-neuromaternal-9788466678087"
   label = "Enlace al libro"
   
 # [btn_alt]
-# url = https://www.penguinlibros.com/es/ciencia-y-tecnologia/339781-libro-neuromaternal-9788466678087
+# url = "https://www.penguinlibros.com/es/ciencia-y-tecnologia/339781-libro-neuromaternal-9788466678087"
 # label = "Enlace al libro"
 +++
 
 {{< figure src="img/neuromaternal_book.jpg" class="alignleft" width="80%">}}
 
 #
+
+En el libro **Neuromatenal** traducimos a un lenguaje de divulgación los principales resultados de nuestros estudios
 
 ## Libro: Neuromaternal
 ### Descripción
