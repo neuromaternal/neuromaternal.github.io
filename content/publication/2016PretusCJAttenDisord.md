@@ -1,7 +1,7 @@
 ---
 title: "Presence of Distractor Improves Time Estimation Performance in an Adult ADHD Sample"
 authors:
-- Clara Petrus
+- Clara Pretus
 - Marisol Picado
 - Josep Antoni Ramos-Quiroga
 - Susana Carmona
