@@ -16,5 +16,5 @@ tags:
 featured: true
 links:
 - name: Enlace al artículo
-  url: https://doi.org/10.1038/s41593-024-01629-z
+  url: https://www.nature.com/articles/s41593-024-01629-z
 ---

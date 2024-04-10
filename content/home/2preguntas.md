@@ -19,5 +19,5 @@ weight = 40  # Order that this section will appear.
 -	[**¿Qué papel juegan en los cambios** las hormonas, la alimentación, los patrones de sueño, la interacción con el bebé…?](https://www.nature.com/articles/s41583-023-00733-6)
 -	¿Existe relación entre los **cambios cerebrales y el vínculo materno-filial**?
 -	A parte de los cambios volumétricos, **¿se producen también cambios en la actividad cerebral y la conectividad?**
--   ¿Cómo **avanzar** en el campo del cerebro maternal?
+-   [¿Cómo **avanzar** en el campo del cerebro maternal?](https://www.nature.com/articles/s41593-024-01629-z)
 -   [¿Qué relación hay entre las homonas, el cerebro y la **salud mental** de la mujer a lo largo de su vida?](https://www.nature.com/articles/s44220-024-00224-2)
