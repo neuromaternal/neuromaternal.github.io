@@ -37,7 +37,7 @@ hero_media = ""
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
 # [btn]
-#  url = "https://forms.office.com/pages/responsepage.aspx?id=KUxRa5EjMUi3dITzXEW_AXbnTZpslIlGrfjJg-Ysz71UMUZXTFBSVlkxVTRIT1o3QUxONEtYMzY3USQlQCN0PWcu"
+#  url = "https://forms.office.com/Pages/ResponsePage.aspx?id=KUxRa5EjMUi3dITzXEW_AXbnTZpslIlGrfjJg-Ysz71UQkJWUjVTQktOTlhKVkdSQzlCME44NTNDOSQlQCN0PWcu"
 #  label = "Más información sobre cómo participar"
   
 # [btn_alt]
@@ -55,4 +55,4 @@ hero_media = ""
   - En proceso de **adopción de un bebé entre 0 y 2 años**.
   - Parejas qué estén buscando **su primer embarazo** a través del **método ROPA**.
 
-Si quieres más información sobre cómo participar envíanos un correo a: [neuro.maternal@gmail.com](mailto:neuro.maternal@gmail.com).
+Si quieres información sobre cómo participar en el estudio, puedes rellenar [este formulario](https://forms.office.com/Pages/ResponsePage.aspx?id=KUxRa5EjMUi3dITzXEW_AXbnTZpslIlGrfjJg-Ysz71UQkJWUjVTQktOTlhKVkdSQzlCME44NTNDOSQlQCN0PWcu) y nos pondremos en contacto contigo para explicarte en qué consiste, sin ningún tipo de compromiso. Si lo prefieres, también puedes enviar un correo a: [neuro.maternal@gmail.com](mailto:neuro.maternal@gmail.com) para que te informemos.
