@@ -18,7 +18,7 @@ authors:
 - Oscar Vilarroya
 
 date: "2025-01-16T00:00:00Z"
-doi: "https://doi.org/10.1038/s41467-025-55830-0"
+doi: "" #"https://doi.org/10.1038/s41467-025-55830-0"
 publishDate: "2025-01-16T00:00:00Z"
 publication_types: ["2"]
 publication: "In *Nature Communications*"
