@@ -1,5 +1,5 @@
 ---
-title: 'A digital twin od the pregnant and maternal brain'
+title: 'A digital twin of the pregnant and maternal brain'
 authors:
 - Susana Carmona
 - Nina Miolane
