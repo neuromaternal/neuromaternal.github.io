@@ -15,7 +15,7 @@ date: "2025-03-05T00:00:00Z"
 doi: ""
 publishDate: "2025-03-05T00:00:00Z"
 publication_types: ["2"]
-publication: "In *ScienceAdvances*"
+publication: "In *Science Advances*"
 tags:
 - Maternidad
 featured: true
