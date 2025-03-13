@@ -11,15 +11,15 @@ authors:
 - Daniel Martín de Blas
 - Susana Carmona
 
-date: "2025-03-01T00:00:00Z"
+date: "2025-03-05T00:00:00Z"
 doi: ""
-publishDate: "2025-03-01T00:00:00Z"
+publishDate: "2025-03-05T00:00:00Z"
 publication_types: ["2"]
 publication: "In *ScienceAdvances*"
 tags:
 - Maternidad
 featured: true
-# links:
-# - name: Enlace al artículo
-#   url: https://www.nature.com/articles/s41593-023-01513-2
+links:
+- name: Enlace al artículo
+  url: https://www.science.org/doi/10.1126/sciadv.adt5619
 ---
