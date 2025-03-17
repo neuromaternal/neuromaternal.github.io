@@ -43,7 +43,7 @@ Nos ponemos en contacto contigo con el fin de informarte de que, desde Neuromate
 
 Se trata de un proyecto liderado por la Universidad de California cuyo objetivo es crear una base de datos de cerebros de mujeres para investigar aspectos que afectan a la salud de la mujer pero que, por desgracia, están muy poco explorados desde la neurociencia.
 
-Solo por darte un dato: de los 50.000 estudios publicados en el campo de la neuroimagen, solo un 0,5% de ellos exploran aspectos como el ciclo menstrual, los tratamientos hormonales, el embarazo o la menopausia (incluimos un [artículo]({{< static "img/Bridging_the-neuroscience_gender_divide_Jacobs_E.pdf" >}}) adjunto a este correo por si es de tu interés).
+Solo por darte un dato: de los 50.000 estudios publicados en el campo de la neuroimagen, solo un 0,5% de ellos exploran aspectos como el ciclo menstrual, los tratamientos hormonales, el embarazo o la menopausia (incluimos un [artículo](/docs/Bridging_the-neuroscience_gender_divide_Jacobs_E.pdf" ) adjunto a este correo por si es de tu interés).
 
 Actualmente estamos liderando la sección de Embarazo y Maternidad de la mencionada iniciativa (Ann S. Bowers Women's Brain Health Initiative), y una de las propuestas es agregar imágenes de resonancias magnéticas entre instituciones internacionales para poder responder a preguntas que no podríamos hacer de forma individual.
 
