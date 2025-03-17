@@ -39,7 +39,7 @@ hero_media = ""
 
 Estimada participante:
 
-Nos ponemos en contacto contigo con el fin de informarte de que, desde Neuromaternal, queremos contribuir a la iniciativa Ann S. Bowers Women's Brain Health Initiative [https://wbhi.ucsb.edu](https://wbhi.ucsb.edu).
+Nos ponemos en contacto contigo con el fin de informarte de que, desde Neuromaternal, queremos contribuir a la iniciativa Ann S. Bowers Women's Brain Health Initiative ([https://wbhi.ucsb.edu](https://wbhi.ucsb.edu)).
 
 Se trata de un proyecto liderado por la Universidad de California cuyo objetivo es crear una base de datos de cerebros de mujeres para investigar aspectos que afectan a la salud de la mujer pero que, por desgracia, están muy poco explorados desde la neurociencia.
 
