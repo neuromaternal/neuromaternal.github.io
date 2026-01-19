@@ -38,4 +38,4 @@ email: ""
 user_groups:
 - Investigadores
 ---
-Cristina es investigadora predoctoral en el grupo NeuroMaternal. Su investigación se centra en el papel que juega el sistema inmune en los cambios cerebrales producidos por el embarazo y la maternidad, así como la contribución de la crianza sobre la neuroplasticidad observada.
+Cristina es investigadora predoctoral en el grupo NeuroMaternal. Su investigación se centra en establecr un modelo integrativo sobre los cambios cerebrales asociados al embarazo y posparto combinando factores biológicos, culturales y sociales.
