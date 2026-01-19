@@ -41,7 +41,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Investigadores
+- Colaboradores y Antiguos Miembros
 ---
 
-Francisco Javier Navas Sánchez es licenciado en Biología y doctor en Neurociencias. Forma parte del grupo de investigación “NeuroMaternal” del Instituto de Investigación Sanitaria Gregorio Marañón de Madrid, así como del CIBER de Salud Mental. Es experto en el procesado y análisis de métodos avanzados de neuroimagen multimodal aplicados al campo de la neurobiología y la patofisiología. Ha publicado varios artículos en revistas de primer cuartil en neurociencia y ha participado en varios congresos nacionales e internacionales.   
+Francisco Javier Navas Sánchez es licenciado en Biología y doctor en Neurociencias. Es experto en el procesado y análisis de métodos avanzados de neuroimagen multimodal aplicados al campo de la neurobiología y la patofisiología. Ha publicado varios artículos en revistas de primer cuartil en neurociencia y ha participado en varios congresos nacionales e internacionales.   
