@@ -4,7 +4,7 @@ name: Susana Carmona Cañabate
 avatar_image: "scarmona.jpg"
 # Username (this should match the folder name)
 authors:
-- admin
+- scarmona
 # resume download button
 #btn:
 #- url : ""
