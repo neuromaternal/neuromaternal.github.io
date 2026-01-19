@@ -36,8 +36,8 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Investigadores
+- Colaboradores y Antiguos Miembros
 ---
-Inés trabaja en el grupo de "NeuroMaternal" como técnico de apoyo a la investigación bajo la supervisión de la Doctora Carmona. Es graduada en ingeniería biomédica por la Universidad Politécnica de Madrid y actualmente se encuentra cursando un máster de Ingeniería Electromecánica en la misma institución. 
+Inés trabajó en el grupo de "NeuroMaternal" como técnico de apoyo a la investigación bajo la supervisión de la Doctora Carmona. Es graduada en ingeniería biomédica por la Universidad Politécnica de Madrid y realizó el máster de Ingeniería Electromecánica en la misma institución. 
 
-Su trabajo en el grupo consiste en la asistencia en labores de investigación (procesamiento de datos de neuroimagen, análisis estadístico, implementación de pipelines de procesamiento, etc.) así como en las gestiones de XnatCIBERSAM, una plataforma de neuroimagen gestionada por el grupo. 
+Su trabajo en el grupo consistió en la asistencia en labores de investigación (procesamiento de datos de neuroimagen, análisis estadístico, implementación de pipelines de procesamiento, etc.) así como en las gestiones de XnatCIBERSAM, una plataforma de neuroimagen gestionada por el grupo. 

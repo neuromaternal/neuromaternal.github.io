@@ -1,17 +1,16 @@
 ---
 # Display name
-name: Alberto Fernández Pena
-avatar_image: "afernandez.jpg"
+name: Luis de Marcos Vidal
+avatar_image: "lmarcos.jpg"
 # Username (this should match the folder name)
 authors:
-- afernandez
+- lmarcos
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Investigador predoctoral, Licenciado en Ingeniería de Telecomunicaciones especializado en telemática y bioingeniería 
-
+role: Investigador predoctoral, Grado en Psicología, Máster de Metodología en Ciencias del Comportamiento y de la Salud y Doctor en Ciencia y Tecnología Biomédica
 # Short bio (displayed in user profile at end of posts)
 bio:
 
@@ -28,7 +27,7 @@ interests:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:afernandez@hggm.es'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:lmarcos@hggm.es'  # For a direct email link, use "mailto:test@example.org".
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -36,9 +35,6 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Investigadores
-
-weight:
-- 20
+- Colaboradores y Antiguos Miembros
 ---
-Ingeniero en Telecomunicación por la Universidad Politécnica de Madrid especializado en telemática y bioingeniería. En la actualidad está realizando sus estudios de doctorado. Su trabajo se centra en la parte metodológica del procesado de neuroimagen, así como en el desarrollo de pipelines para procesamiento. También ha trabajado en el despliegue y mantenimiento de una plataforma XNAT para el almacenamiento de datos de neuroimagen.
+Luis Marcos Vidal es doctor en Ciencia y Tecnología Biomédica por la Universidad Carlos III de Madríd. Además, es graduado en Psicología por la Universidad Autónoma de Madrid y ha realizado el Máster de Metodología en Ciencias del Comportamiento y de la Salud. Su trabajo se centra en el análisis de imágenes de resonancia magnética funcional, especialmente en el desarrollo y aplicación de técnicas basadas en teoría de grafos para estudiar la conectividad funcional.

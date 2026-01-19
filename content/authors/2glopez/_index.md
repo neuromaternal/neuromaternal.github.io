@@ -1,16 +1,16 @@
 ---
 # Display name
-name: Luis de Marcos Vidal
-avatar_image: "lmarcos.jpg"
+name: Gonzalo López Montoya
+avatar_image: "glopez.jpg"
 # Username (this should match the folder name)
 authors:
-- lmarcos
+- glopez
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Investigador predoctoral, Grado en Psicología y Máster de Metodología en Ciencias del Comportamiento y de la Salud
+role: Lab Manager, Doctor en Psicología
 
 # Short bio (displayed in user profile at end of posts)
 bio:
@@ -28,7 +28,7 @@ interests:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:lmarcos@hggm.es'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:glopez@hggm.es'  # For a direct email link, use "mailto:test@example.org".
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -36,6 +36,10 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Investigadores
+- Colaboradores y Antiguos Miembros
+
+weight:
+- 20
 ---
-Luis Marcos Vidal es graduado en Psicología por la Universidad Autónoma de Madrid y ha realizado el Máster de Metodología en Ciencias del Comportamiento y de la Salud. Actualmente está realizando su tesis doctoral en el programa de Multimedia y Comunicaciones de la Universidad Carlos III de Madrid. Su trabajo se centra en el análisis de imágenes de resonancia magnética funcional, especialmente en el desarrollo y aplicación de técnicas basadas en teoría de grafos para estudiar la conectividad funcional.
+
+Gonzalo López Montoya es doctor en Psicología. Formó parte del grupo de investigación “NeuroMaternal” del Instituto de Investigación Sanitaria Gregorio Marañón de Madrid. Toda su carrera investigadora ha girado en torno a las Neurociencias y la Salud Mental. Figura como coautor en numerosos artículos científicos y ha coordinado en España dos importantes estudios europeos.
