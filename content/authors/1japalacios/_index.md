@@ -27,7 +27,7 @@ interests:
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
 - icon: linkedin
-  icon_pack: ai
+  icon_pack: fab
   link: 'https://www.linkedin.com/in/tonipalacios93'
 - icon: researchgate
   icon_pack: ai
