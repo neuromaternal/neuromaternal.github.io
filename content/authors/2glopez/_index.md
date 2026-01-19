@@ -39,7 +39,7 @@ user_groups:
 - Colaboradores y Antiguos Miembros
 
 weight:
-- 10
+- Colaboradores y Antiguos Miembros: 10
 ---
 
 Gonzalo López Montoya es doctor en Psicología. Formó parte del grupo de investigación “NeuroMaternal” del Instituto de Investigación Sanitaria Gregorio Marañón de Madrid. Toda su carrera investigadora ha girado en torno a las Neurociencias y la Salud Mental. Figura como coautor en numerosos artículos científicos y ha coordinado en España dos importantes estudios europeos.

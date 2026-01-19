@@ -43,7 +43,7 @@ email: ""
 user_groups:
 - Colaboradores y Antiguos Miembros
 weight:
-- 50
+- Colaboradores y Antiguos Miembros: 50
 ---
 
 Francisco Javier Navas Sánchez es licenciado en Biología y doctor en Neurociencias. Es experto en el procesado y análisis de métodos avanzados de neuroimagen multimodal aplicados al campo de la neurobiología y la patofisiología. Ha publicado varios artículos en revistas de primer cuartil en neurociencia y ha participado en varios congresos nacionales e internacionales.   

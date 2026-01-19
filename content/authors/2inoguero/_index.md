@@ -39,7 +39,7 @@ user_groups:
 - Colaboradores y Antiguos Miembros
 
 weights:
-- 60
+- Colaboradores y Antiguos Miembros: 60
 ---
 Inés trabajó en el grupo de "NeuroMaternal" como técnico de apoyo a la investigación bajo la supervisión de la Doctora Carmona. Es graduada en ingeniería biomédica por la Universidad Politécnica de Madrid y realizó el máster de Ingeniería Electromecánica en la misma institución. 
 

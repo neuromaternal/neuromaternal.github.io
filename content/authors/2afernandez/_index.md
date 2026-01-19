@@ -38,6 +38,6 @@ user_groups:
 - Colaboradores y Antiguos Miembros
 
 weight:
-- 30
+- Colaboradores y Antiguos Miembros: 30
 ---
 Ingeniero en Telecomunicación por la Universidad Politécnica de Madrid especializado en telemática y bioingeniería y Doctor en Ciencia y Tecnología Biomédica por la Universidad Carlos III de Madrid. Su trabajo se centra en la parte metodológica del procesado de neuroimagen, así como en el desarrollo de pipelines para procesamiento. También ha trabajado en el despliegue y mantenimiento de una plataforma XNAT para el almacenamiento de datos de neuroimagen.

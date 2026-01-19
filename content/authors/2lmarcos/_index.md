@@ -37,6 +37,6 @@ email: ""
 user_groups:
 - Colaboradores y Antiguos Miembros
 weight:
-- 40
+- Colaboradores y Antiguos Miembros: 40
 ---
 Luis Marcos Vidal es doctor en Ciencia y Tecnología Biomédica por la Universidad Carlos III de Madríd. Además, es graduado en Psicología por la Universidad Autónoma de Madrid y ha realizado el Máster de Metodología en Ciencias del Comportamiento y de la Salud. Su trabajo se centra en el análisis de imágenes de resonancia magnética funcional, especialmente en el desarrollo y aplicación de técnicas basadas en teoría de grafos para estudiar la conectividad funcional.
