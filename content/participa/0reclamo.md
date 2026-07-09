@@ -49,10 +49,12 @@ hero_media = ""
 
 #
 
-**Estamos buscando** mujeres **sin hijos** de entre 25 y 45 años que residan en **Madrid** y que se encuentren en algunos de los siguientes casos:
+# **Estamos buscando** mujeres **sin hijos** de entre 25 y 45 años que residan en **Madrid** y que se encuentren en algunos de los siguientes casos:
 
-  - Estén buscando **su primer embarazo**.
-  - En proceso de **adopción de un bebé entre 0 y 2 años**.
-  - Parejas qué estén buscando **su primer embarazo** a través del **método ROPA**.
+#  - Estén buscando **su primer embarazo**.
+#  - En proceso de **adopción de un bebé entre 0 y 2 años**.
+#  - Parejas qué estén buscando **su primer embarazo** a través del **método ROPA**.
 
-Si quieres información sobre cómo participar en el estudio, puedes rellenar [este formulario](https://forms.office.com/Pages/ResponsePage.aspx?id=KUxRa5EjMUi3dITzXEW_AXbnTZpslIlGrfjJg-Ysz71UQkJWUjVTQktOTlhKVkdSQzlCME44NTNDOSQlQCN0PWcu) y nos pondremos en contacto contigo para explicarte en qué consiste, sin ningún tipo de compromiso. Si lo prefieres, también puedes enviar un correo a: [neuro.maternal@gmail.com](mailto:neuro.maternal@gmail.com) para que te informemos.
+# Si quieres información sobre cómo participar en el estudio, puedes rellenar [este formulario](https://forms.office.com/Pages/ResponsePage.aspx?id=KUxRa5EjMUi3dITzXEW_AXbnTZpslIlGrfjJg-Ysz71UQkJWUjVTQktOTlhKVkdSQzlCME44NTNDOSQlQCN0PWcu) y nos pondremos en contacto contigo para explicarte en qué consiste, sin ningún tipo de compromiso. Si lo prefieres, también puedes enviar un correo a: [neuro.maternal@gmail.com](mailto:neuro.maternal@gmail.com) para que te informemos.
+
+Actualmente no estamos buscando participantes para nuestros estudios, no obstante, si quieres ponerte en contacto con nosotras puedes enviar un correo a: [neuro.maternal@gmail.com](mailto:neuro.maternal@gmail.com) 
